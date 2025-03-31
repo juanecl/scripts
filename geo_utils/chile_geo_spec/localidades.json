@@ -1,0 +1,9659 @@
+[
+  {
+    "nombre": "Caleta Andrade",
+    "tipo": "localidad",
+    "codigo": "1121",
+    "lat": -45.1516667,
+    "lng": -73.5208332,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Estero Copa",
+    "tipo": "localidad",
+    "codigo": "1122",
+    "lat": -46.5076086,
+    "lng": -74.21337969999999,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "La Junta",
+    "tipo": "localidad",
+    "codigo": "1123",
+    "lat": -43.97155619999999,
+    "lng": -72.4029891,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Mañihuales",
+    "tipo": "localidad",
+    "codigo": "1124",
+    "lat": -45.1726489,
+    "lng": -72.1473015,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Melinka",
+    "tipo": "localidad",
+    "codigo": "1125",
+    "lat": -43.8983,
+    "lng": -73.74499999999999,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Puerto Aguirre",
+    "tipo": "localidad",
+    "codigo": "1126",
+    "lat": -45.1566291,
+    "lng": -73.52250839999999,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Puerto Aysén",
+    "tipo": "localidad",
+    "codigo": "1127",
+    "lat": -45.4035437,
+    "lng": -72.6864154,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Puerto Chacabuco",
+    "tipo": "localidad",
+    "codigo": "1128",
+    "lat": -45.4622319,
+    "lng": -72.81901590000001,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Puerto Raúl Marín Balmaceda",
+    "tipo": "localidad",
+    "codigo": "1129",
+    "lat": -43.7762477,
+    "lng": -72.9537723,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Puyuhuapi",
+    "tipo": "localidad",
+    "codigo": "11210",
+    "lat": -44.3227968,
+    "lng": -72.56001189999999,
+    "url": "",
+    "codigo_padre": "112"
+  },
+  {
+    "nombre": "Puerto Harris",
+    "tipo": "localidad",
+    "codigo": "12211",
+    "lat": -55.09916279999999,
+    "lng": -69.2747744,
+    "url": "",
+    "codigo_padre": "122"
+  },
+  {
+    "nombre": "Puerto Navarino",
+    "tipo": "localidad",
+    "codigo": "12212",
+    "lat": -54.9333,
+    "lng": -68.3333,
+    "url": "",
+    "codigo_padre": "122"
+  },
+  {
+    "nombre": "Puerto Toro",
+    "tipo": "localidad",
+    "codigo": "12213",
+    "lat": -55.0829776,
+    "lng": -67.0757608,
+    "url": "",
+    "codigo_padre": "122"
+  },
+  {
+    "nombre": "Puerto Williams",
+    "tipo": "localidad",
+    "codigo": "12214",
+    "lat": -54.9352098,
+    "lng": -67.6058537,
+    "url": "",
+    "codigo_padre": "122"
+  },
+  {
+    "nombre": "Villa Las Estrellas",
+    "tipo": "localidad",
+    "codigo": "12215",
+    "lat": -62.20013459999999,
+    "lng": -58.96376979999999,
+    "url": "",
+    "codigo_padre": "122"
+  },
+  {
+    "nombre": "Iquique",
+    "tipo": "localidad",
+    "codigo": "01116",
+    "lat": -20.2307033,
+    "lng": -70.1356692,
+    "url": "",
+    "codigo_padre": "011"
+  },
+  {
+    "nombre": "Alto Hospicio",
+    "tipo": "localidad",
+    "codigo": "01117",
+    "lat": -20.2686722,
+    "lng": -70.10491689999999,
+    "url": "",
+    "codigo_padre": "011"
+  },
+  {
+    "nombre": "Guanillos",
+    "tipo": "localidad",
+    "codigo": "01118",
+    "lat": -21.2014445,
+    "lng": -70.0957475,
+    "url": "",
+    "codigo_padre": "011"
+  },
+  {
+    "nombre": "Iquique",
+    "tipo": "localidad",
+    "codigo": "01119",
+    "lat": -20.2307033,
+    "lng": -70.1356692,
+    "url": "",
+    "codigo_padre": "011"
+  },
+  {
+    "nombre": "Pabellón de Pica",
+    "tipo": "localidad",
+    "codigo": "01120",
+    "lat": -20.9122222,
+    "lng": -70.13694439999999,
+    "url": "",
+    "codigo_padre": "011"
+  },
+  {
+    "nombre": "Punta Patache",
+    "tipo": "localidad",
+    "codigo": "01121",
+    "lat": -20.809453,
+    "lng": -70.20153309999999,
+    "url": "",
+    "codigo_padre": "011"
+  },
+  {
+    "nombre": "Pisagua",
+    "tipo": "localidad",
+    "codigo": "01422",
+    "lat": -19.596729,
+    "lng": -70.2123386,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Ancuaque",
+    "tipo": "localidad",
+    "codigo": "01423",
+    "lat": -19.5220346,
+    "lng": -68.7193933,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Arabilla",
+    "tipo": "localidad",
+    "codigo": "01424",
+    "lat": -19.220776,
+    "lng": -68.86291969999999,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Caleta Buena",
+    "tipo": "localidad",
+    "codigo": "01425",
+    "lat": -19.8885105,
+    "lng": -70.131517,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Camiña",
+    "tipo": "localidad",
+    "codigo": "01426",
+    "lat": -19.3116281,
+    "lng": -69.4298687,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Cancosa",
+    "tipo": "localidad",
+    "codigo": "01427",
+    "lat": -19.8524976,
+    "lng": -68.600999,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Cariquima",
+    "tipo": "localidad",
+    "codigo": "01428",
+    "lat": -19.4656738,
+    "lng": -68.6410175,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Chapiquilta",
+    "tipo": "localidad",
+    "codigo": "01429",
+    "lat": -20.2028799,
+    "lng": -69.2877535,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Chiapa",
+    "tipo": "localidad",
+    "codigo": "01430",
+    "lat": -19.5318013,
+    "lng": -69.2082078,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Chijo",
+    "tipo": "localidad",
+    "codigo": "01431",
+    "lat": -19.4333,
+    "lng": -68.6167,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Colchane",
+    "tipo": "localidad",
+    "codigo": "01432",
+    "lat": -19.2761393,
+    "lng": -68.6388049,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Collacagua",
+    "tipo": "localidad",
+    "codigo": "01433",
+    "lat": -20.0409227,
+    "lng": -68.83189569999999,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Enquelga",
+    "tipo": "localidad",
+    "codigo": "01434",
+    "lat": -19.2307225,
+    "lng": -68.79454489999999,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Fuerte Baquedano",
+    "tipo": "localidad",
+    "codigo": "01435",
+    "lat": -20.2028799,
+    "lng": -69.2877535,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Huara",
+    "tipo": "localidad",
+    "codigo": "01436",
+    "lat": -19.9972461,
+    "lng": -69.77185150000001,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Huatacondo",
+    "tipo": "localidad",
+    "codigo": "01437",
+    "lat": -20.9236935,
+    "lng": -69.0495004,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Huaviña",
+    "tipo": "localidad",
+    "codigo": "01438",
+    "lat": -19.7954762,
+    "lng": -69.23179200000001,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Isluga",
+    "tipo": "localidad",
+    "codigo": "01439",
+    "lat": -19.2493206,
+    "lng": -68.7224305,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "La Huayca",
+    "tipo": "localidad",
+    "codigo": "01440",
+    "lat": -20.4313366,
+    "lng": -69.5605352,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "La Tirana",
+    "tipo": "localidad",
+    "codigo": "01441",
+    "lat": -20.3365124,
+    "lng": -69.6562096,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Lirima",
+    "tipo": "localidad",
+    "codigo": "01442",
+    "lat": -19.8619618,
+    "lng": -68.82783680000001,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Mamiña",
+    "tipo": "localidad",
+    "codigo": "01443",
+    "lat": -20.0618197,
+    "lng": -69.2208115,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Mauque",
+    "tipo": "localidad",
+    "codigo": "01444",
+    "lat": -19.3198338,
+    "lng": -68.8797742,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Mocha",
+    "tipo": "localidad",
+    "codigo": "01445",
+    "lat": -19.7996695,
+    "lng": -69.28210969999999,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Moquella",
+    "tipo": "localidad",
+    "codigo": "01446",
+    "lat": -19.35,
+    "lng": -69.5189875,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Pica",
+    "tipo": "localidad",
+    "codigo": "01447",
+    "lat": -20.489483,
+    "lng": -69.330511,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Pintados",
+    "tipo": "localidad",
+    "codigo": "01448",
+    "lat": -20.6226944,
+    "lng": -69.639794,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Pozo Almonte",
+    "tipo": "localidad",
+    "codigo": "01449",
+    "lat": -20.2567092,
+    "lng": -69.7860128,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "San Antonio de Zapiga",
+    "tipo": "localidad",
+    "codigo": "01450",
+    "lat": -20.2028799,
+    "lng": -69.2877535,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "San Lorenzo de Tarapacá",
+    "tipo": "localidad",
+    "codigo": "01451",
+    "lat": -19.923194,
+    "lng": -69.51320319999999,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Sibaya",
+    "tipo": "localidad",
+    "codigo": "01452",
+    "lat": -19.7760334,
+    "lng": -69.14488000000001,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Sotoca",
+    "tipo": "localidad",
+    "codigo": "01453",
+    "lat": -19.581517,
+    "lng": -69.2030432,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Usmagama",
+    "tipo": "localidad",
+    "codigo": "01454",
+    "lat": -19.7454762,
+    "lng": -69.2198605,
+    "url": "",
+    "codigo_padre": "014"
+  },
+  {
+    "nombre": "Caleta Michilla",
+    "tipo": "localidad",
+    "codigo": "02155",
+    "lat": -23.6319932,
+    "lng": -70.39355030000002,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Cobija",
+    "tipo": "localidad",
+    "codigo": "02156",
+    "lat": -22.55,
+    "lng": -70.2602059,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Coloso",
+    "tipo": "localidad",
+    "codigo": "02157",
+    "lat": -23.6113232,
+    "lng": -70.3842162,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Estación Baquedano",
+    "tipo": "localidad",
+    "codigo": "02158",
+    "lat": -23.5887287,
+    "lng": -70.3872401,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Hornitos",
+    "tipo": "localidad",
+    "codigo": "02159",
+    "lat": -22.9187458,
+    "lng": -70.2915194,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Mejillones",
+    "tipo": "localidad",
+    "codigo": "02160",
+    "lat": -23.0985013,
+    "lng": -70.4455041,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Mineral de Caracoles",
+    "tipo": "localidad",
+    "codigo": "02161",
+    "lat": -23.6509279,
+    "lng": -70.39750219999999,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Pampa Unión",
+    "tipo": "localidad",
+    "codigo": "02162",
+    "lat": -23.580417,
+    "lng": -70.38446379999999,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Paposo",
+    "tipo": "localidad",
+    "codigo": "02163",
+    "lat": -25.0027128,
+    "lng": -70.4627036,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Sierra Gorda",
+    "tipo": "localidad",
+    "codigo": "02164",
+    "lat": -22.8860128,
+    "lng": -69.3171995,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Taltal",
+    "tipo": "localidad",
+    "codigo": "02165",
+    "lat": -25.283333,
+    "lng": -69.766667,
+    "url": "",
+    "codigo_padre": "021"
+  },
+  {
+    "nombre": "Ayquina",
+    "tipo": "localidad",
+    "codigo": "02266",
+    "lat": -22.2693128,
+    "lng": -68.3203119,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "Calama",
+    "tipo": "localidad",
+    "codigo": "02267",
+    "lat": -22.4543923,
+    "lng": -68.9293819,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "Caspana",
+    "tipo": "localidad",
+    "codigo": "02268",
+    "lat": -22.3263064,
+    "lng": -68.2108207,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "Catarpe",
+    "tipo": "localidad",
+    "codigo": "02269",
+    "lat": -22.856494,
+    "lng": -68.2167,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "Lasana",
+    "tipo": "localidad",
+    "codigo": "02270",
+    "lat": -22.2667,
+    "lng": -68.62231009999999,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "Ollagüe",
+    "tipo": "localidad",
+    "codigo": "02271",
+    "lat": -21.2256917,
+    "lng": -68.2547802,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "San Francisco de Chiu Chiu",
+    "tipo": "localidad",
+    "codigo": "02272",
+    "lat": -22.341944,
+    "lng": -68.64999999999999,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "San Pedro de Atacama",
+    "tipo": "localidad",
+    "codigo": "02273",
+    "lat": -22.9087073,
+    "lng": -68.19971559999999,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "Socaire",
+    "tipo": "localidad",
+    "codigo": "02274",
+    "lat": -23.5970027,
+    "lng": -67.887965,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "Toconao",
+    "tipo": "localidad",
+    "codigo": "02275",
+    "lat": -23.1872963,
+    "lng": -68.004711,
+    "url": "",
+    "codigo_padre": "022"
+  },
+  {
+    "nombre": "Tocopilla",
+    "tipo": "localidad",
+    "codigo": "02376",
+    "lat": -22.0857976,
+    "lng": -70.1930064,
+    "url": "",
+    "codigo_padre": "023"
+  },
+  {
+    "nombre": "María Elena",
+    "tipo": "localidad",
+    "codigo": "02377",
+    "lat": -22.166667,
+    "lng": -69.416667,
+    "url": "",
+    "codigo_padre": "023"
+  },
+  {
+    "nombre": "Oficina salitrera Chacabuco",
+    "tipo": "localidad",
+    "codigo": "02378",
+    "lat": -23.147222,
+    "lng": -69.61666699999999,
+    "url": "",
+    "codigo_padre": "023"
+  },
+  {
+    "nombre": "Oficina salitrera Pedro de Valdivia",
+    "tipo": "localidad",
+    "codigo": "02379",
+    "lat": -22.5950046,
+    "lng": -69.6876806,
+    "url": "",
+    "codigo_padre": "023"
+  },
+  {
+    "nombre": "Quillagua",
+    "tipo": "localidad",
+    "codigo": "02380",
+    "lat": -21.6568535,
+    "lng": -69.5341953,
+    "url": "",
+    "codigo_padre": "023"
+  },
+  {
+    "nombre": "Oficina salitrera Rica Aventura",
+    "tipo": "localidad",
+    "codigo": "02381",
+    "lat": -22.03187,
+    "lng": -69.614014,
+    "url": "",
+    "codigo_padre": "023"
+  },
+  {
+    "nombre": "Bahía Inglesa",
+    "tipo": "localidad",
+    "codigo": "03182",
+    "lat": -27.1036182,
+    "lng": -70.8532774,
+    "url": "",
+    "codigo_padre": "031"
+  },
+  {
+    "nombre": "Caldera",
+    "tipo": "localidad",
+    "codigo": "03183",
+    "lat": -27.0667,
+    "lng": -70.8178142,
+    "url": "",
+    "codigo_padre": "031"
+  },
+  {
+    "nombre": "Copiapó",
+    "tipo": "localidad",
+    "codigo": "03184",
+    "lat": -27.3665763,
+    "lng": -70.3321587,
+    "url": "",
+    "codigo_padre": "031"
+  },
+  {
+    "nombre": "Loreto",
+    "tipo": "localidad",
+    "codigo": "03185",
+    "lat": -27.3596327,
+    "lng": -70.3176938,
+    "url": "",
+    "codigo_padre": "031"
+  },
+  {
+    "nombre": "Los Loros",
+    "tipo": "localidad",
+    "codigo": "03186",
+    "lat": -27.8268059,
+    "lng": -70.10899169999999,
+    "url": "",
+    "codigo_padre": "031"
+  },
+  {
+    "nombre": "Playa La Virgen",
+    "tipo": "localidad",
+    "codigo": "03187",
+    "lat": -27.3626864,
+    "lng": -70.9582093,
+    "url": "",
+    "codigo_padre": "031"
+  },
+  {
+    "nombre": "Puerto Viejo",
+    "tipo": "localidad",
+    "codigo": "03188",
+    "lat": -27.3577008,
+    "lng": -70.3178379,
+    "url": "",
+    "codigo_padre": "031"
+  },
+  {
+    "nombre": "Tierra Amarilla",
+    "tipo": "localidad",
+    "codigo": "03189",
+    "lat": -27.4671706,
+    "lng": -70.2652196,
+    "url": "",
+    "codigo_padre": "031"
+  },
+  {
+    "nombre": "Chañaral",
+    "tipo": "localidad",
+    "codigo": "03290",
+    "lat": -26.3450046,
+    "lng": -70.624193,
+    "url": "",
+    "codigo_padre": "032"
+  },
+  {
+    "nombre": "Diego de Almagro",
+    "tipo": "localidad",
+    "codigo": "03291",
+    "lat": -26.3902488,
+    "lng": -70.0475302,
+    "url": "",
+    "codigo_padre": "032"
+  },
+  {
+    "nombre": "El Salado",
+    "tipo": "localidad",
+    "codigo": "03292",
+    "lat": -26.416667,
+    "lng": -70.316667,
+    "url": "",
+    "codigo_padre": "032"
+  },
+  {
+    "nombre": "El Salvador",
+    "tipo": "localidad",
+    "codigo": "03293",
+    "lat": -26.2456005,
+    "lng": -69.6263775,
+    "url": "",
+    "codigo_padre": "032"
+  },
+  {
+    "nombre": "Inca de Oro",
+    "tipo": "localidad",
+    "codigo": "03294",
+    "lat": -26.7542599,
+    "lng": -69.9054216,
+    "url": "",
+    "codigo_padre": "032"
+  },
+  {
+    "nombre": "Potrerillos",
+    "tipo": "localidad",
+    "codigo": "03295",
+    "lat": -26.4333,
+    "lng": -69.4833,
+    "url": "",
+    "codigo_padre": "032"
+  },
+  {
+    "nombre": "Albaricoque",
+    "tipo": "localidad",
+    "codigo": "03396",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Algarrobal",
+    "tipo": "localidad",
+    "codigo": "03397",
+    "lat": -28.141194,
+    "lng": -70.64959630000001,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Cachiyuyo",
+    "tipo": "localidad",
+    "codigo": "03398",
+    "lat": -29.0308477,
+    "lng": -70.89864949999999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Caleta Chañaral",
+    "tipo": "localidad",
+    "codigo": "03399",
+    "lat": -29.06876729999999,
+    "lng": -71.4847526,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Canto de Agua",
+    "tipo": "localidad",
+    "codigo": "033100",
+    "lat": -28.15,
+    "lng": -70.9333,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Capote",
+    "tipo": "localidad",
+    "codigo": "033101",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Carrizal Alto",
+    "tipo": "localidad",
+    "codigo": "033102",
+    "lat": -28.0798545,
+    "lng": -70.9008102,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Carrizal Bajo",
+    "tipo": "localidad",
+    "codigo": "033103",
+    "lat": -28.0883,
+    "lng": -71.1521999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Cerro Blanco",
+    "tipo": "localidad",
+    "codigo": "033104",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Chanchoquín Chico",
+    "tipo": "localidad",
+    "codigo": "033105",
+    "lat": -28.8527633,
+    "lng": -70.2892382,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Chanchoquín Grande",
+    "tipo": "localidad",
+    "codigo": "033106",
+    "lat": -28.8527633,
+    "lng": -70.2892382,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Chañar Blanco",
+    "tipo": "localidad",
+    "codigo": "033107",
+    "lat": -28.666667,
+    "lng": -70.68333299999999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Chigüinto",
+    "tipo": "localidad",
+    "codigo": "033108",
+    "lat": -28.82572009999999,
+    "lng": -70.3531058,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Chollay",
+    "tipo": "localidad",
+    "codigo": "033109",
+    "lat": -28.9828,
+    "lng": -70.1533,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Conay",
+    "tipo": "localidad",
+    "codigo": "033110",
+    "lat": -28.9236935,
+    "lng": -70.07630639999999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Crucecita Alta",
+    "tipo": "localidad",
+    "codigo": "033111",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Crucecita Baja",
+    "tipo": "localidad",
+    "codigo": "033112",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Domeyko",
+    "tipo": "localidad",
+    "codigo": "033113",
+    "lat": -28.955,
+    "lng": -70.8939,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Algodón",
+    "tipo": "localidad",
+    "codigo": "033114",
+    "lat": -28.7167,
+    "lng": -70.51670000000001,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Berraco",
+    "tipo": "localidad",
+    "codigo": "033115",
+    "lat": -29.0823009,
+    "lng": -70.4748078,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Churcal",
+    "tipo": "localidad",
+    "codigo": "033116",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Corral",
+    "tipo": "localidad",
+    "codigo": "033117",
+    "lat": -29.1342,
+    "lng": -70.3869,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Maitén",
+    "tipo": "localidad",
+    "codigo": "033118",
+    "lat": -28.7127036,
+    "lng": -70.5303027,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Olivo",
+    "tipo": "localidad",
+    "codigo": "033119",
+    "lat": -28.4629029,
+    "lng": -71.1811042,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Pedregal",
+    "tipo": "localidad",
+    "codigo": "033120",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Portillo",
+    "tipo": "localidad",
+    "codigo": "033121",
+    "lat": -28.9435059,
+    "lng": -70.2557101,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Rosario",
+    "tipo": "localidad",
+    "codigo": "033122",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Solar",
+    "tipo": "localidad",
+    "codigo": "033123",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Sombrío",
+    "tipo": "localidad",
+    "codigo": "033124",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Tabaco",
+    "tipo": "localidad",
+    "codigo": "033125",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "El Tránsito",
+    "tipo": "localidad",
+    "codigo": "033126",
+    "lat": -28.8788018,
+    "lng": -70.2815009,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Freirina",
+    "tipo": "localidad",
+    "codigo": "033127",
+    "lat": -28.512094,
+    "lng": -71.0795967,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Hacienda Atacama",
+    "tipo": "localidad",
+    "codigo": "033128",
+    "lat": -28.4711277,
+    "lng": -71.2204402,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Huasco",
+    "tipo": "localidad",
+    "codigo": "033129",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Huasco Bajo",
+    "tipo": "localidad",
+    "codigo": "033130",
+    "lat": -28.4721949,
+    "lng": -71.17680589999999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Incahuasi",
+    "tipo": "localidad",
+    "codigo": "033131",
+    "lat": -29.22189999999999,
+    "lng": -71.0119,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Juntas de Valeriano",
+    "tipo": "localidad",
+    "codigo": "033132",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Angostura",
+    "tipo": "localidad",
+    "codigo": "033133",
+    "lat": -29.0592069,
+    "lng": -70.13101739999999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Arena",
+    "tipo": "localidad",
+    "codigo": "033134",
+    "lat": -28.9167,
+    "lng": -70.2738087,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Fragua",
+    "tipo": "localidad",
+    "codigo": "033135",
+    "lat": -28.9,
+    "lng": -70.277805,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Higuerita",
+    "tipo": "localidad",
+    "codigo": "033136",
+    "lat": -28.3019,
+    "lng": -70.2955999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Huerta",
+    "tipo": "localidad",
+    "codigo": "033137",
+    "lat": -35.0667,
+    "lng": -71.66669999999999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Junta",
+    "tipo": "localidad",
+    "codigo": "033138",
+    "lat": -28.5750794,
+    "lng": -70.7620506,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Laja",
+    "tipo": "localidad",
+    "codigo": "033139",
+    "lat": -28.6751921,
+    "lng": -70.5985013,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Laja",
+    "tipo": "localidad",
+    "codigo": "033139",
+    "lat": -28.6751921,
+    "lng": -70.5985013,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "La Majada",
+    "tipo": "localidad",
+    "codigo": "033140",
+    "lat": -28.9,
+    "lng": -70.45,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Marquesa",
+    "tipo": "localidad",
+    "codigo": "033141",
+    "lat": -28.8167,
+    "lng": -70.3667,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Mesilla",
+    "tipo": "localidad",
+    "codigo": "033142",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Pampa",
+    "tipo": "localidad",
+    "codigo": "033143",
+    "lat": -28.9667,
+    "lng": -70.2333,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Placeta",
+    "tipo": "localidad",
+    "codigo": "033144",
+    "lat": -35.0332999,
+    "lng": -70.7833,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Puntilla",
+    "tipo": "localidad",
+    "codigo": "033145",
+    "lat": -29.1116538,
+    "lng": -70.40914830000001,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "La Vega",
+    "tipo": "localidad",
+    "codigo": "033146",
+    "lat": -28.7877795,
+    "lng": -70.4657002,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Laguna Chica",
+    "tipo": "localidad",
+    "codigo": "033147",
+    "lat": -28.80083329999999,
+    "lng": -69.8427778,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Laguna Grande",
+    "tipo": "localidad",
+    "codigo": "033148",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Las Breas",
+    "tipo": "localidad",
+    "codigo": "033149",
+    "lat": -29.0970027,
+    "lng": -70.4637027,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Las Lozas",
+    "tipo": "localidad",
+    "codigo": "033150",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Las Pircas",
+    "tipo": "localidad",
+    "codigo": "033151",
+    "lat": -28.4887889,
+    "lng": -71.1310562,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Los Canales",
+    "tipo": "localidad",
+    "codigo": "033152",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Los Perales",
+    "tipo": "localidad",
+    "codigo": "033153",
+    "lat": -28.8667,
+    "lng": -70.3167,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Los Tambos",
+    "tipo": "localidad",
+    "codigo": "033154",
+    "lat": -20.7333,
+    "lng": -69.3,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Maitencillo",
+    "tipo": "localidad",
+    "codigo": "033155",
+    "lat": -28.5308023,
+    "lng": -70.92680589999999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Malaguín",
+    "tipo": "localidad",
+    "codigo": "033156",
+    "lat": -28.9167,
+    "lng": -70.13329999999999,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Pachuy",
+    "tipo": "localidad",
+    "codigo": "033157",
+    "lat": -29.0363748,
+    "lng": -70.0890141,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Pastalito",
+    "tipo": "localidad",
+    "codigo": "033158",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Piedras Juntas",
+    "tipo": "localidad",
+    "codigo": "033159",
+    "lat": -29,
+    "lng": -70.46670000000002,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Punta Negra",
+    "tipo": "localidad",
+    "codigo": "033160",
+    "lat": -20.1623193,
+    "lng": -70.1524976,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Quebrada de la Plata",
+    "tipo": "localidad",
+    "codigo": "033161",
+    "lat": -29.0706094,
+    "lng": -70.2103234,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Quebrada de las ánimas",
+    "tipo": "localidad",
+    "codigo": "033162",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Quebrada de Pinte",
+    "tipo": "localidad",
+    "codigo": "033163",
+    "lat": -28.9786206,
+    "lng": -70.2834664,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Retamo",
+    "tipo": "localidad",
+    "codigo": "033165",
+    "lat": -28.4664,
+    "lng": -71.2192,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "San Félix",
+    "tipo": "localidad",
+    "codigo": "033166",
+    "lat": -28.9398497,
+    "lng": -70.460247,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Vallenar",
+    "tipo": "localidad",
+    "codigo": "033167",
+    "lat": -28.5757953,
+    "lng": -70.7571009,
+    "url": "",
+    "codigo_padre": "033"
+  },
+  {
+    "nombre": "Andacollo",
+    "tipo": "localidad",
+    "codigo": "041168",
+    "lat": -30.2357949,
+    "lng": -71.0828027,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Caleta Hornos",
+    "tipo": "localidad",
+    "codigo": "041169",
+    "lat": -29.9785225,
+    "lng": -71.29059749999999,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Chungungo",
+    "tipo": "localidad",
+    "codigo": "041170",
+    "lat": -29.4492852,
+    "lng": -71.307493,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Coquimbo",
+    "tipo": "localidad",
+    "codigo": "041171",
+    "lat": -29.8294614,
+    "lng": -70.81199529999999,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "El Molle",
+    "tipo": "localidad",
+    "codigo": "041172",
+    "lat": -29.9667,
+    "lng": -70.9667,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "El Trapiche",
+    "tipo": "localidad",
+    "codigo": "041173",
+    "lat": -29.3435059,
+    "lng": -71.1512142,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Estación Chañar",
+    "tipo": "localidad",
+    "codigo": "041174",
+    "lat": -29.1761115,
+    "lng": -70.9187942,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Gualliguaica",
+    "tipo": "localidad",
+    "codigo": "041175",
+    "lat": -29.9241997,
+    "lng": -71.2158175,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Guanaqueros",
+    "tipo": "localidad",
+    "codigo": "041176",
+    "lat": -30.2,
+    "lng": -71.4333,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Guayacán",
+    "tipo": "localidad",
+    "codigo": "041177",
+    "lat": -29.9642023,
+    "lng": -71.3607055,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Huachalalume",
+    "tipo": "localidad",
+    "codigo": "041178",
+    "lat": -29.9754525,
+    "lng": -71.3265704,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "La Higuera",
+    "tipo": "localidad",
+    "codigo": "041179",
+    "lat": -29.5119534,
+    "lng": -71.2000844,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "La Serena",
+    "tipo": "localidad",
+    "codigo": "041180",
+    "lat": -29.9026555,
+    "lng": -71.2519415,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Lambert",
+    "tipo": "localidad",
+    "codigo": "041181",
+    "lat": -29.8333,
+    "lng": -71.1167,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Las Tacas",
+    "tipo": "localidad",
+    "codigo": "041182",
+    "lat": -30.09253919999999,
+    "lng": -71.3643762,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Los Choros",
+    "tipo": "localidad",
+    "codigo": "041183",
+    "lat": -29.2432907,
+    "lng": -71.4597064,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Montegrande",
+    "tipo": "localidad",
+    "codigo": "041184",
+    "lat": -30.0990967,
+    "lng": -70.49610229999999,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Paihuano",
+    "tipo": "localidad",
+    "codigo": "041185",
+    "lat": -30.2527843,
+    "lng": -70.3836815,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Pisco Elqui",
+    "tipo": "localidad",
+    "codigo": "041186",
+    "lat": -30.1220406,
+    "lng": -70.4933447,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Puerto Aldea",
+    "tipo": "localidad",
+    "codigo": "041187",
+    "lat": -30.2943351,
+    "lng": -71.61095089999999,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Puerto Velero",
+    "tipo": "localidad",
+    "codigo": "041188",
+    "lat": -30.2448193,
+    "lng": -71.4789381,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Punta Colorada",
+    "tipo": "localidad",
+    "codigo": "041189",
+    "lat": -29.3535689,
+    "lng": -71.018419,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Punta de Choros",
+    "tipo": "localidad",
+    "codigo": "041190",
+    "lat": -29.2504486,
+    "lng": -71.4699306,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Quebrada de Pinto",
+    "tipo": "localidad",
+    "codigo": "041191",
+    "lat": -29.9246052,
+    "lng": -71.21351299999999,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Tongoy",
+    "tipo": "localidad",
+    "codigo": "041192",
+    "lat": -30.2521009,
+    "lng": -71.49979350000001,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Totoralillo",
+    "tipo": "localidad",
+    "codigo": "041193",
+    "lat": -30.0736416,
+    "lng": -71.3791463,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Vicuña",
+    "tipo": "localidad",
+    "codigo": "041194",
+    "lat": -30.0319,
+    "lng": -70.7081,
+    "url": "",
+    "codigo_padre": "041"
+  },
+  {
+    "nombre": "Caimanes",
+    "tipo": "localidad",
+    "codigo": "042195",
+    "lat": -31.9318013,
+    "lng": -71.1345142,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Canela",
+    "tipo": "localidad",
+    "codigo": "042196",
+    "lat": -31.398889,
+    "lng": -71.45611099999999,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Canela Baja",
+    "tipo": "localidad",
+    "codigo": "042197",
+    "lat": -31.398889,
+    "lng": -71.45611099999999,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Cuncumén",
+    "tipo": "localidad",
+    "codigo": "042198",
+    "lat": -31.8993484,
+    "lng": -70.6210675,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Guangualí",
+    "tipo": "localidad",
+    "codigo": "042199",
+    "lat": -32.1306473,
+    "lng": -71.3728627,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Huintil",
+    "tipo": "localidad",
+    "codigo": "042200",
+    "lat": -31.5627036,
+    "lng": -70.96620039999999,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Illapel",
+    "tipo": "localidad",
+    "codigo": "042201",
+    "lat": -31.6308,
+    "lng": -71.1653,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Los Vilos",
+    "tipo": "localidad",
+    "codigo": "042202",
+    "lat": -31.9121865,
+    "lng": -71.5112017,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Mincha",
+    "tipo": "localidad",
+    "codigo": "042203",
+    "lat": -31.5880467,
+    "lng": -71.4465591,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Pichidangui",
+    "tipo": "localidad",
+    "codigo": "042204",
+    "lat": -32.1333,
+    "lng": -71.5333,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Salamanca",
+    "tipo": "localidad",
+    "codigo": "042205",
+    "lat": -31.782493,
+    "lng": -70.96071049999999,
+    "url": "",
+    "codigo_padre": "042"
+  },
+  {
+    "nombre": "Ovalle",
+    "tipo": "localidad",
+    "codigo": "043206",
+    "lat": -30.604304,
+    "lng": -71.19698819999999,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Barraza",
+    "tipo": "localidad",
+    "codigo": "043207",
+    "lat": -30.6549702,
+    "lng": -71.4784952,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Chañaral Alto",
+    "tipo": "localidad",
+    "codigo": "043208",
+    "lat": -30.8831385,
+    "lng": -71.0116522,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Combarbalá",
+    "tipo": "localidad",
+    "codigo": "043209",
+    "lat": -31.1790967,
+    "lng": -71.00509579999999,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Huatulame",
+    "tipo": "localidad",
+    "codigo": "043210",
+    "lat": -30.7462002,
+    "lng": -71.0022311,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "La Cebada",
+    "tipo": "localidad",
+    "codigo": "043211",
+    "lat": -30.5865311,
+    "lng": -71.1996135,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Lagunillas",
+    "tipo": "localidad",
+    "codigo": "043212",
+    "lat": -30.534299,
+    "lng": -71.1592069,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Mialqui",
+    "tipo": "localidad",
+    "codigo": "043213",
+    "lat": -30.7328004,
+    "lng": -70.8788041,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Monte Patria",
+    "tipo": "localidad",
+    "codigo": "043214",
+    "lat": -30.6978944,
+    "lng": -70.9586889,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Pique de Tamaya",
+    "tipo": "localidad",
+    "codigo": "043215",
+    "lat": -30.5818563,
+    "lng": -71.4095419,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Punitaqui",
+    "tipo": "localidad",
+    "codigo": "043216",
+    "lat": -31.0174318,
+    "lng": -71.3349322,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Río Hurtado",
+    "tipo": "localidad",
+    "codigo": "043217",
+    "lat": -30.266667,
+    "lng": -70.666667,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "San Julián",
+    "tipo": "localidad",
+    "codigo": "043218",
+    "lat": -30.6430064,
+    "lng": -71.3417921,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Sotaquí",
+    "tipo": "localidad",
+    "codigo": "043219",
+    "lat": -30.6362972,
+    "lng": -71.1173147,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Tulahuén",
+    "tipo": "localidad",
+    "codigo": "043220",
+    "lat": -31.0167,
+    "lng": -70.7333,
+    "url": "",
+    "codigo_padre": "043"
+  },
+  {
+    "nombre": "Ciudad Abierta",
+    "tipo": "localidad",
+    "codigo": "051221",
+    "lat": -33.0267597,
+    "lng": -71.582317,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Concón",
+    "tipo": "localidad",
+    "codigo": "051222",
+    "lat": -32.9299468,
+    "lng": -71.51860649999999,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Quintero",
+    "tipo": "localidad",
+    "codigo": "051223",
+    "lat": -32.7723101,
+    "lng": -71.5333,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Valparaíso",
+    "tipo": "localidad",
+    "codigo": "051224",
+    "lat": -33.047238,
+    "lng": -71.61268849999999,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Viña del Mar",
+    "tipo": "localidad",
+    "codigo": "051225",
+    "lat": -33.0153481,
+    "lng": -71.55002759999999,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Cachagua",
+    "tipo": "localidad",
+    "codigo": "051226",
+    "lat": -32.5801888,
+    "lng": -71.45219940000001,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Campiche",
+    "tipo": "localidad",
+    "codigo": "051227",
+    "lat": -32.735507,
+    "lng": -71.45147519999999,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Casablanca",
+    "tipo": "localidad",
+    "codigo": "051228",
+    "lat": -33.3190376,
+    "lng": -71.40763179999999,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Ciudad Abierta",
+    "tipo": "localidad",
+    "codigo": "051229",
+    "lat": -33.0267597,
+    "lng": -71.582317,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Curauma",
+    "tipo": "localidad",
+    "codigo": "051230",
+    "lat": -33.1321246,
+    "lng": -71.5640411,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Horcón",
+    "tipo": "localidad",
+    "codigo": "051231",
+    "lat": -32.7157009,
+    "lng": -71.4870119,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "La Chocota",
+    "tipo": "localidad",
+    "codigo": "051232",
+    "lat": -32.7333333,
+    "lng": -71.5,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Las Dichas",
+    "tipo": "localidad",
+    "codigo": "051233",
+    "lat": -33.2921471,
+    "lng": -71.497362,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Las Docas",
+    "tipo": "localidad",
+    "codigo": "051234",
+    "lat": -33.139031,
+    "lng": -71.705908,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Las Ventanas",
+    "tipo": "localidad",
+    "codigo": "051235",
+    "lat": -32.7432907,
+    "lng": -71.4887949,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Loncura",
+    "tipo": "localidad",
+    "codigo": "051236",
+    "lat": -32.7878,
+    "lng": -71.5056,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Maitencillo",
+    "tipo": "localidad",
+    "codigo": "051237",
+    "lat": -32.6477354,
+    "lng": -71.4386603,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Placilla de Peñuelas",
+    "tipo": "localidad",
+    "codigo": "051238",
+    "lat": -33.1141567,
+    "lng": -71.563461,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Puchuncaví",
+    "tipo": "localidad",
+    "codigo": "051239",
+    "lat": -32.722005,
+    "lng": -71.4117004,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Quintay",
+    "tipo": "localidad",
+    "codigo": "051240",
+    "lat": -33.193636,
+    "lng": -71.6972722,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Quintero",
+    "tipo": "localidad",
+    "codigo": "051241",
+    "lat": -32.7723101,
+    "lng": -71.5333,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Ritoque",
+    "tipo": "localidad",
+    "codigo": "051242",
+    "lat": -32.8249769,
+    "lng": -71.5303027,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "San Juan Bautista",
+    "tipo": "localidad",
+    "codigo": "051243",
+    "lat": -33.0318816,
+    "lng": -71.5851059,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Tunquén",
+    "tipo": "localidad",
+    "codigo": "051244",
+    "lat": -33.2737363,
+    "lng": -71.6469726,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Valle Alegre",
+    "tipo": "localidad",
+    "codigo": "051245",
+    "lat": -32.8103545,
+    "lng": -71.4410674,
+    "url": "",
+    "codigo_padre": "051"
+  },
+  {
+    "nombre": "Hanga Roa",
+    "tipo": "localidad",
+    "codigo": "052246",
+    "lat": -27.15,
+    "lng": -109.4333,
+    "url": "",
+    "codigo_padre": "052"
+  },
+  {
+    "nombre": "Calle Larga",
+    "tipo": "localidad",
+    "codigo": "053247",
+    "lat": -32.857493,
+    "lng": -70.6258069,
+    "url": "",
+    "codigo_padre": "053"
+  },
+  {
+    "nombre": "Cariño Botado",
+    "tipo": "localidad",
+    "codigo": "053248",
+    "lat": -32.8,
+    "lng": -70.55920689999999,
+    "url": "",
+    "codigo_padre": "053"
+  },
+  {
+    "nombre": "El Arpa",
+    "tipo": "localidad",
+    "codigo": "053249",
+    "lat": -32.6705294,
+    "lng": -70.53538209999999,
+    "url": "",
+    "codigo_padre": "053"
+  },
+  {
+    "nombre": "Pocuro",
+    "tipo": "localidad",
+    "codigo": "053250",
+    "lat": -32.868263,
+    "lng": -70.6080795,
+    "url": "",
+    "codigo_padre": "053"
+  },
+  {
+    "nombre": "Portillo",
+    "tipo": "localidad",
+    "codigo": "053251",
+    "lat": -32.8462835,
+    "lng": -70.60046009999999,
+    "url": "",
+    "codigo_padre": "053"
+  },
+  {
+    "nombre": "Rinconada",
+    "tipo": "localidad",
+    "codigo": "053252",
+    "lat": -32.8352416,
+    "lng": -70.7010367,
+    "url": "",
+    "codigo_padre": "053"
+  },
+  {
+    "nombre": "Saladillo",
+    "tipo": "localidad",
+    "codigo": "053253",
+    "lat": -32.8485943,
+    "lng": -70.5884147,
+    "url": "",
+    "codigo_padre": "053"
+  },
+  {
+    "nombre": "San Esteban",
+    "tipo": "localidad",
+    "codigo": "053254",
+    "lat": -32.8004995,
+    "lng": -70.5798032,
+    "url": "",
+    "codigo_padre": "053"
+  },
+  {
+    "nombre": "La Ligua",
+    "tipo": "localidad",
+    "codigo": "054255",
+    "lat": -32.44990180000001,
+    "lng": -71.2325958,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Papudo",
+    "tipo": "localidad",
+    "codigo": "054256",
+    "lat": -32.5072087,
+    "lng": -71.4485013,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Petorca",
+    "tipo": "localidad",
+    "codigo": "054257",
+    "lat": -32.25,
+    "lng": -70.9333,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Zapallar",
+    "tipo": "localidad",
+    "codigo": "054258",
+    "lat": -32.5538059,
+    "lng": -71.4581359,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Alicahue",
+    "tipo": "localidad",
+    "codigo": "054259",
+    "lat": -32.35,
+    "lng": -70.7872963,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Cabildo",
+    "tipo": "localidad",
+    "codigo": "054260",
+    "lat": -32.4258064,
+    "lng": -71.0661621,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Catapilco",
+    "tipo": "localidad",
+    "codigo": "054261",
+    "lat": -32.567158,
+    "lng": -71.2722282,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "El Molino de Ingenio",
+    "tipo": "localidad",
+    "codigo": "054262",
+    "lat": -32.2567965,
+    "lng": -71.097317,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "La Laguna de Zapallar",
+    "tipo": "localidad",
+    "codigo": "054263",
+    "lat": -32.6317112,
+    "lng": -71.42846399999999,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Los Molles",
+    "tipo": "localidad",
+    "codigo": "054264",
+    "lat": -32.239444,
+    "lng": -71.515,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Pichicuy",
+    "tipo": "localidad",
+    "codigo": "054265",
+    "lat": -32.3383569,
+    "lng": -71.4602646,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "Pichilemu",
+    "tipo": "localidad",
+    "codigo": "054266",
+    "lat": -32.3793036,
+    "lng": -71.127805,
+    "url": "",
+    "codigo_padre": "054"
+  },
+  {
+    "nombre": "La Calera",
+    "tipo": "localidad",
+    "codigo": "055267",
+    "lat": -32.7877958,
+    "lng": -71.2039963,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "Quillota",
+    "tipo": "localidad",
+    "codigo": "055268",
+    "lat": -32.8803027,
+    "lng": -71.2497156,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "El Melón",
+    "tipo": "localidad",
+    "codigo": "055269",
+    "lat": -32.6884096,
+    "lng": -71.2108023,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "Hijuelas",
+    "tipo": "localidad",
+    "codigo": "055270",
+    "lat": -32.7980018,
+    "lng": -71.1437211,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "La Cruz",
+    "tipo": "localidad",
+    "codigo": "055271",
+    "lat": -32.8258069,
+    "lng": -71.2273055,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "Nogales",
+    "tipo": "localidad",
+    "codigo": "055272",
+    "lat": -32.7333,
+    "lng": -71.2042115,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "Ocoa",
+    "tipo": "localidad",
+    "codigo": "055273",
+    "lat": -32.8406452,
+    "lng": -71.0634786,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "Purutun",
+    "tipo": "localidad",
+    "codigo": "055274",
+    "lat": -32.7791647,
+    "lng": -71.1498146,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "Quebrada del Ají",
+    "tipo": "localidad",
+    "codigo": "055275",
+    "lat": -32.8574878,
+    "lng": -71.28830889999999,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "San Pedro",
+    "tipo": "localidad",
+    "codigo": "055276",
+    "lat": -32.8803027,
+    "lng": -71.2497156,
+    "url": "",
+    "codigo_padre": "055"
+  },
+  {
+    "nombre": "Algarrobo",
+    "tipo": "localidad",
+    "codigo": "056277",
+    "lat": -33.3647762,
+    "lng": -71.67055340000002,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Cartagena",
+    "tipo": "localidad",
+    "codigo": "056278",
+    "lat": -33.5482466,
+    "lng": -71.6045745,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "San Antonio",
+    "tipo": "localidad",
+    "codigo": "056279",
+    "lat": -33.5922807,
+    "lng": -71.6055123,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Santo Domingo",
+    "tipo": "localidad",
+    "codigo": "056280",
+    "lat": -33.635833,
+    "lng": -71.628056,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Cartagena",
+    "tipo": "localidad",
+    "codigo": "056281",
+    "lat": -33.5482466,
+    "lng": -71.6045745,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "El Quisco",
+    "tipo": "localidad",
+    "codigo": "056282",
+    "lat": -33.398596,
+    "lng": -71.6981538,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "El Tabo",
+    "tipo": "localidad",
+    "codigo": "056283",
+    "lat": -33.4557162,
+    "lng": -71.66693409999999,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "El Totoral",
+    "tipo": "localidad",
+    "codigo": "056284",
+    "lat": -33.4167,
+    "lng": -71.63329999999999,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Isla Negra",
+    "tipo": "localidad",
+    "codigo": "056285",
+    "lat": -33.4421757,
+    "lng": -71.6829739,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Las Cruces",
+    "tipo": "localidad",
+    "codigo": "056286",
+    "lat": -33.4974365,
+    "lng": -71.6230042,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Leyda",
+    "tipo": "localidad",
+    "codigo": "056287",
+    "lat": -33.61315740000001,
+    "lng": -71.4501843,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Llolleo",
+    "tipo": "localidad",
+    "codigo": "056288",
+    "lat": -33.6161093,
+    "lng": -71.61541249999999,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "San Alfonso del Mar",
+    "tipo": "localidad",
+    "codigo": "056289",
+    "lat": -33.3495751,
+    "lng": -71.6522796,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "San Antonio",
+    "tipo": "localidad",
+    "codigo": "056290",
+    "lat": -33.5922807,
+    "lng": -71.6055123,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "San Sebastián",
+    "tipo": "localidad",
+    "codigo": "056291",
+    "lat": -33.5266366,
+    "lng": -71.59972429999999,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Punta de Tralca",
+    "tipo": "localidad",
+    "codigo": "056292",
+    "lat": -33.4244268,
+    "lng": -71.69731759999999,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "El Yeco",
+    "tipo": "localidad",
+    "codigo": "056293",
+    "lat": -33.3073363,
+    "lng": -71.6450828,
+    "url": "",
+    "codigo_padre": "056"
+  },
+  {
+    "nombre": "Putaendo",
+    "tipo": "localidad",
+    "codigo": "057294",
+    "lat": -32.628461,
+    "lng": -70.7177434,
+    "url": "",
+    "codigo_padre": "057"
+  },
+  {
+    "nombre": "San Felipe",
+    "tipo": "localidad",
+    "codigo": "057295",
+    "lat": -32.75,
+    "lng": -70.7208115,
+    "url": "",
+    "codigo_padre": "057"
+  },
+  {
+    "nombre": "Catemu",
+    "tipo": "localidad",
+    "codigo": "057296",
+    "lat": -32.7788041,
+    "lng": -70.9627036,
+    "url": "",
+    "codigo_padre": "057"
+  },
+  {
+    "nombre": "Curimón",
+    "tipo": "localidad",
+    "codigo": "057297",
+    "lat": -32.7823009,
+    "lng": -70.6865124,
+    "url": "",
+    "codigo_padre": "057"
+  },
+  {
+    "nombre": "Llay-Llay",
+    "tipo": "localidad",
+    "codigo": "057298",
+    "lat": -32.8409806,
+    "lng": -70.956166,
+    "url": "",
+    "codigo_padre": "057"
+  },
+  {
+    "nombre": "Panquehue",
+    "tipo": "localidad",
+    "codigo": "057299",
+    "lat": -32.7670303,
+    "lng": -70.8333,
+    "url": "",
+    "codigo_padre": "057"
+  },
+  {
+    "nombre": "Rinconada de Silva",
+    "tipo": "localidad",
+    "codigo": "057300",
+    "lat": -32.6561429,
+    "lng": -70.7155545,
+    "url": "",
+    "codigo_padre": "057"
+  },
+  {
+    "nombre": "Santa María",
+    "tipo": "localidad",
+    "codigo": "057301",
+    "lat": -32.7470027,
+    "lng": -70.6587073,
+    "url": "",
+    "codigo_padre": "057"
+  },
+  {
+    "nombre": "Limache",
+    "tipo": "localidad",
+    "codigo": "058302",
+    "lat": -33.0095283,
+    "lng": -71.2595888,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Olmué",
+    "tipo": "localidad",
+    "codigo": "058303",
+    "lat": -32.9958297,
+    "lng": -71.1812984,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Quilpué",
+    "tipo": "localidad",
+    "codigo": "058304",
+    "lat": -33.0482707,
+    "lng": -71.4408752,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Villa Alemana",
+    "tipo": "localidad",
+    "codigo": "058305",
+    "lat": -33.0476377,
+    "lng": -71.3734096,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Colliguay",
+    "tipo": "localidad",
+    "codigo": "058306",
+    "lat": -33.168639,
+    "lng": -71.1490695,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Limache",
+    "tipo": "localidad",
+    "codigo": "058307",
+    "lat": -33.0095283,
+    "lng": -71.2595888,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Limache Viejo",
+    "tipo": "localidad",
+    "codigo": "058308",
+    "lat": -33.00259,
+    "lng": -71.268311,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Olmué",
+    "tipo": "localidad",
+    "codigo": "058309",
+    "lat": -32.9958297,
+    "lng": -71.1812984,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "San Francisco de Limache",
+    "tipo": "localidad",
+    "codigo": "058310",
+    "lat": -32.9814648,
+    "lng": -71.28347699999999,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Villa Alemana",
+    "tipo": "localidad",
+    "codigo": "058311",
+    "lat": -33.0476377,
+    "lng": -71.3734096,
+    "url": "",
+    "codigo_padre": "058"
+  },
+  {
+    "nombre": "Angostura de Paine",
+    "tipo": "localidad",
+    "codigo": "061312",
+    "lat": -33.9,
+    "lng": -70.7333,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Caletones",
+    "tipo": "localidad",
+    "codigo": "061313",
+    "lat": -34.1,
+    "lng": -70.45,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Chanqueahue",
+    "tipo": "localidad",
+    "codigo": "061314",
+    "lat": -34.4167,
+    "lng": -70.80767809999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Chapa Verde",
+    "tipo": "localidad",
+    "codigo": "061315",
+    "lat": -34.179452,
+    "lng": -70.6565151,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Codegua",
+    "tipo": "localidad",
+    "codigo": "061316",
+    "lat": -34.0370319,
+    "lng": -70.67286410000001,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Coinco",
+    "tipo": "localidad",
+    "codigo": "061317",
+    "lat": -34.2661579,
+    "lng": -70.9593417,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Colón",
+    "tipo": "localidad",
+    "codigo": "061318",
+    "lat": -34.0868142,
+    "lng": -70.4504465,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Coltauco",
+    "tipo": "localidad",
+    "codigo": "061319",
+    "lat": -34.2877978,
+    "lng": -71.0855512,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Copequén",
+    "tipo": "localidad",
+    "codigo": "061320",
+    "lat": -34.2477006,
+    "lng": -70.91996689999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Coya",
+    "tipo": "localidad",
+    "codigo": "061321",
+    "lat": -34.2074928,
+    "lng": -70.5256847,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Doñihue",
+    "tipo": "localidad",
+    "codigo": "061322",
+    "lat": -34.228986,
+    "lng": -70.95792879999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "El Carmen",
+    "tipo": "localidad",
+    "codigo": "061323",
+    "lat": -34.257128,
+    "lng": -71.3839692,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "El Estero",
+    "tipo": "localidad",
+    "codigo": "061324",
+    "lat": -34.1588593,
+    "lng": -71.4178812,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "El Manzano",
+    "tipo": "localidad",
+    "codigo": "061325",
+    "lat": -34.1797479,
+    "lng": -71.4023787,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "El Rulo",
+    "tipo": "localidad",
+    "codigo": "061326",
+    "lat": -34.30274,
+    "lng": -71.0191679,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "El Tambo",
+    "tipo": "localidad",
+    "codigo": "061327",
+    "lat": -34.4810572,
+    "lng": -70.9839228,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Esmeralda",
+    "tipo": "localidad",
+    "codigo": "061328",
+    "lat": -34.3393907,
+    "lng": -70.9028276,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Graneros",
+    "tipo": "localidad",
+    "codigo": "061329",
+    "lat": -34.0666916,
+    "lng": -70.7325646,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Guacarhue",
+    "tipo": "localidad",
+    "codigo": "061330",
+    "lat": -34.3553601,
+    "lng": -71.01957829999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Gultro",
+    "tipo": "localidad",
+    "codigo": "061331",
+    "lat": -34.2,
+    "lng": -70.7833,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Larmahue",
+    "tipo": "localidad",
+    "codigo": "061332",
+    "lat": -34.4124031,
+    "lng": -71.2373719,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Las Balsas",
+    "tipo": "localidad",
+    "codigo": "061333",
+    "lat": -34.1827475,
+    "lng": -71.462079,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Las Cabras",
+    "tipo": "localidad",
+    "codigo": "061334",
+    "lat": -34.2932184,
+    "lng": -71.3126292,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Las Nieves",
+    "tipo": "localidad",
+    "codigo": "061335",
+    "lat": -34.4778416,
+    "lng": -70.742988,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Llallauquén",
+    "tipo": "localidad",
+    "codigo": "061336",
+    "lat": -34.240689,
+    "lng": -71.42764489999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Lo Miranda",
+    "tipo": "localidad",
+    "codigo": "061337",
+    "lat": -34.1909507,
+    "lng": -70.89128629999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Los Lirios",
+    "tipo": "localidad",
+    "codigo": "061338",
+    "lat": -34.2256713,
+    "lng": -70.7884761,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Machalí",
+    "tipo": "localidad",
+    "codigo": "061339",
+    "lat": -34.179452,
+    "lng": -70.6565151,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Malloa",
+    "tipo": "localidad",
+    "codigo": "061340",
+    "lat": -34.4423905,
+    "lng": -70.9463887,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Mina El Teniente",
+    "tipo": "localidad",
+    "codigo": "061341",
+    "lat": -34.0876186,
+    "lng": -70.45805349999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Mostazal",
+    "tipo": "localidad",
+    "codigo": "061342",
+    "lat": -33.9497607,
+    "lng": -70.5740886,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Olivar Alto",
+    "tipo": "localidad",
+    "codigo": "061343",
+    "lat": -34.2,
+    "lng": -70.816667,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Palmas de Cocalán",
+    "tipo": "localidad",
+    "codigo": "061344",
+    "lat": -34.1594445,
+    "lng": -71.24722229999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Pangal",
+    "tipo": "localidad",
+    "codigo": "061345",
+    "lat": -34.2454986,
+    "lng": -70.4119449,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Pataguas Orilla",
+    "tipo": "localidad",
+    "codigo": "061346",
+    "lat": -34.3046282,
+    "lng": -71.3541494,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Pelequén",
+    "tipo": "localidad",
+    "codigo": "061347",
+    "lat": -34.4726978,
+    "lng": -70.8950629,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Peumo",
+    "tipo": "localidad",
+    "codigo": "061348",
+    "lat": -34.3963392,
+    "lng": -71.1700793,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Picarquín",
+    "tipo": "localidad",
+    "codigo": "061349",
+    "lat": -33.9596572,
+    "lng": -70.6282404,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Pichidegua",
+    "tipo": "localidad",
+    "codigo": "061350",
+    "lat": -34.3573785,
+    "lng": -71.2872596,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Popeta",
+    "tipo": "localidad",
+    "codigo": "061351",
+    "lat": -34.4398614,
+    "lng": -70.7866779,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Quinta de Tilcoco",
+    "tipo": "localidad",
+    "codigo": "061352",
+    "lat": -34.3554003,
+    "lng": -70.97046809999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Rancagua",
+    "tipo": "localidad",
+    "codigo": "061353",
+    "lat": -34.17013240000001,
+    "lng": -70.7406259,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Rengo",
+    "tipo": "localidad",
+    "codigo": "061354",
+    "lat": -34.4023791,
+    "lng": -70.8674411,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Requínoa",
+    "tipo": "localidad",
+    "codigo": "061355",
+    "lat": -34.2883749,
+    "lng": -70.815833,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Rosario",
+    "tipo": "localidad",
+    "codigo": "061356",
+    "lat": -34.350121,
+    "lng": -70.84229739999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Salsipuedes",
+    "tipo": "localidad",
+    "codigo": "061357",
+    "lat": -34.4,
+    "lng": -70.9667,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "San Francisco de Mostazal",
+    "tipo": "localidad",
+    "codigo": "061358",
+    "lat": -33.9791656,
+    "lng": -70.7119749,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "San Vicente de Tagua Tagua",
+    "tipo": "localidad",
+    "codigo": "061359",
+    "lat": -34.4349435,
+    "lng": -71.0913748,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Santa Inés",
+    "tipo": "localidad",
+    "codigo": "061360",
+    "lat": -34.090548,
+    "lng": -71.3722378,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Sewell",
+    "tipo": "localidad",
+    "codigo": "061361",
+    "lat": -34.0826136,
+    "lng": -70.3658629,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Termas de Cauquenes",
+    "tipo": "localidad",
+    "codigo": "061362",
+    "lat": -34.2485434,
+    "lng": -70.5558073,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Tuniche",
+    "tipo": "localidad",
+    "codigo": "061363",
+    "lat": -34.1338843,
+    "lng": -70.74881069999999,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Zúñiga",
+    "tipo": "localidad",
+    "codigo": "061364",
+    "lat": -34.3563496,
+    "lng": -71.1057087,
+    "url": "",
+    "codigo_padre": "061"
+  },
+  {
+    "nombre": "Bucalemu",
+    "tipo": "localidad",
+    "codigo": "062365",
+    "lat": -34.6414917,
+    "lng": -72.0445943,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Cáhuil",
+    "tipo": "localidad",
+    "codigo": "062366",
+    "lat": -34.4970468,
+    "lng": -72.0113843,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Ciruelos",
+    "tipo": "localidad",
+    "codigo": "062367",
+    "lat": -34.453308,
+    "lng": -71.977921,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "El Manzano",
+    "tipo": "localidad",
+    "codigo": "062368",
+    "lat": -34.1,
+    "lng": -71.85,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "La Boca",
+    "tipo": "localidad",
+    "codigo": "062369",
+    "lat": -33.9383253,
+    "lng": -71.8492188,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "La Estrella",
+    "tipo": "localidad",
+    "codigo": "062370",
+    "lat": -34.2051972,
+    "lng": -71.6547276,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Litueche",
+    "tipo": "localidad",
+    "codigo": "062371",
+    "lat": -34.117272,
+    "lng": -71.72517599999999,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Marchigüe",
+    "tipo": "localidad",
+    "codigo": "062372",
+    "lat": -34.3984467,
+    "lng": -71.6215715,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Matanzas",
+    "tipo": "localidad",
+    "codigo": "062373",
+    "lat": -33.9635852,
+    "lng": -71.87556909999999,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Navidad",
+    "tipo": "localidad",
+    "codigo": "062374",
+    "lat": -33.9978978,
+    "lng": -71.8334145,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Paredones",
+    "tipo": "localidad",
+    "codigo": "062375",
+    "lat": -34.6519651,
+    "lng": -71.90014479999999,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Pichilemu",
+    "tipo": "localidad",
+    "codigo": "062376",
+    "lat": -34.3867245,
+    "lng": -72.0047731,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Polcura",
+    "tipo": "localidad",
+    "codigo": "062377",
+    "lat": -34.0332999,
+    "lng": -71.9237875,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Puertecillo",
+    "tipo": "localidad",
+    "codigo": "062378",
+    "lat": -34.08588659999999,
+    "lng": -71.9303791,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Pupuya",
+    "tipo": "localidad",
+    "codigo": "062379",
+    "lat": -34.0312954,
+    "lng": -71.8424995,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Rapel",
+    "tipo": "localidad",
+    "codigo": "062380",
+    "lat": -33.9429359,
+    "lng": -71.73617829999999,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "San Pedro de Alcántara",
+    "tipo": "localidad",
+    "codigo": "062381",
+    "lat": -34.6928862,
+    "lng": -72.0408901,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "San Rafael",
+    "tipo": "localidad",
+    "codigo": "062382",
+    "lat": -34.1946093,
+    "lng": -71.4997004,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Topocalma",
+    "tipo": "localidad",
+    "codigo": "062383",
+    "lat": -34.127661,
+    "lng": -71.9649627,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Tumán",
+    "tipo": "localidad",
+    "codigo": "062384",
+    "lat": -34.042925,
+    "lng": -71.9086599,
+    "url": "",
+    "codigo_padre": "062"
+  },
+  {
+    "nombre": "Calleuque",
+    "tipo": "localidad",
+    "codigo": "063385",
+    "lat": -34.4021577,
+    "lng": -71.4338806,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Chépica",
+    "tipo": "localidad",
+    "codigo": "063386",
+    "lat": -34.7255387,
+    "lng": -71.2725925,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Chimbarongo",
+    "tipo": "localidad",
+    "codigo": "063387",
+    "lat": -34.70924,
+    "lng": -71.04127129999999,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Chomedahue",
+    "tipo": "localidad",
+    "codigo": "063388",
+    "lat": -34.63011669999999,
+    "lng": -71.361511,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Colchagua",
+    "tipo": "localidad",
+    "codigo": "063389",
+    "lat": -34.6761419,
+    "lng": -71.097317,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Cunaco",
+    "tipo": "localidad",
+    "codigo": "063390",
+    "lat": -34.6501387,
+    "lng": -71.28039199999999,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "El Huique",
+    "tipo": "localidad",
+    "codigo": "063391",
+    "lat": -34.5277881,
+    "lng": -71.37295139999999,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "El Tambo",
+    "tipo": "localidad",
+    "codigo": "063392",
+    "lat": -34.4810572,
+    "lng": -70.9839228,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Isla de Yáquil",
+    "tipo": "localidad",
+    "codigo": "063393",
+    "lat": -34.6323354,
+    "lng": -71.3860297,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "La Rufina",
+    "tipo": "localidad",
+    "codigo": "063394",
+    "lat": -34.733333,
+    "lng": -70.733333,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Lolol",
+    "tipo": "localidad",
+    "codigo": "063395",
+    "lat": -34.7284166,
+    "lng": -71.6458243,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Nancagua",
+    "tipo": "localidad",
+    "codigo": "063396",
+    "lat": -34.6523209,
+    "lng": -71.19685969999999,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Palmilla",
+    "tipo": "localidad",
+    "codigo": "063397",
+    "lat": -34.57742229999999,
+    "lng": -71.380135,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Paniahue",
+    "tipo": "localidad",
+    "codigo": "063398",
+    "lat": -34.6167,
+    "lng": -71.3667,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Peor es Nada",
+    "tipo": "localidad",
+    "codigo": "063399",
+    "lat": -34.78554,
+    "lng": -71.043072,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Peralillo",
+    "tipo": "localidad",
+    "codigo": "063400",
+    "lat": -34.4772681,
+    "lng": -71.487259,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Pidihuinco",
+    "tipo": "localidad",
+    "codigo": "063401",
+    "lat": -34.7728405,
+    "lng": -70.9566914,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Placilla",
+    "tipo": "localidad",
+    "codigo": "063402",
+    "lat": -34.6337953,
+    "lng": -71.1108273,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Pumanque",
+    "tipo": "localidad",
+    "codigo": "063403",
+    "lat": -34.6026565,
+    "lng": -71.6552933,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Roma",
+    "tipo": "localidad",
+    "codigo": "063404",
+    "lat": -34.5800607,
+    "lng": -70.9169197,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "San Fernando",
+    "tipo": "localidad",
+    "codigo": "063405",
+    "lat": -34.5858603,
+    "lng": -70.99078010000001,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Santa Cruz",
+    "tipo": "localidad",
+    "codigo": "063406",
+    "lat": -34.6324213,
+    "lng": -71.3592116,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Sierras de Bellavista",
+    "tipo": "localidad",
+    "codigo": "063407",
+    "lat": -34.8048517,
+    "lng": -70.7520907,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Termas del Flaco",
+    "tipo": "localidad",
+    "codigo": "063408",
+    "lat": -34.9611935,
+    "lng": -70.43241050000002,
+    "url": "",
+    "codigo_padre": "063"
+  },
+  {
+    "nombre": "Gualleco",
+    "tipo": "localidad",
+    "codigo": "071409",
+    "lat": -35.2455447,
+    "lng": -71.9814902,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "San Clemente",
+    "tipo": "localidad",
+    "codigo": "071410",
+    "lat": -35.5364676,
+    "lng": -71.48937049999999,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Talca",
+    "tipo": "localidad",
+    "codigo": "071411",
+    "lat": -35.4232444,
+    "lng": -71.6484804,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Camarico",
+    "tipo": "localidad",
+    "codigo": "071412",
+    "lat": -35.2203379,
+    "lng": -71.4243874,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Constitución",
+    "tipo": "localidad",
+    "codigo": "071413",
+    "lat": -35.33330000000001,
+    "lng": -72.41669999999999,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Cumpeo",
+    "tipo": "localidad",
+    "codigo": "071414",
+    "lat": -35.2785489,
+    "lng": -71.2590972,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Curepto",
+    "tipo": "localidad",
+    "codigo": "071415",
+    "lat": -35.0958545,
+    "lng": -72.02088909999999,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Empedrado",
+    "tipo": "localidad",
+    "codigo": "071416",
+    "lat": -35.589943,
+    "lng": -72.2763046,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Gualleco",
+    "tipo": "localidad",
+    "codigo": "071417",
+    "lat": -35.2455447,
+    "lng": -71.9814902,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Maule",
+    "tipo": "localidad",
+    "codigo": "071418",
+    "lat": -35.4232444,
+    "lng": -71.6484804,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Pelarco",
+    "tipo": "localidad",
+    "codigo": "071419",
+    "lat": -35.3838823,
+    "lng": -71.447192,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Putú",
+    "tipo": "localidad",
+    "codigo": "071420",
+    "lat": -35.2193998,
+    "lng": -72.28263009999999,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "San Clemente",
+    "tipo": "localidad",
+    "codigo": "071421",
+    "lat": -35.5364676,
+    "lng": -71.48937049999999,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "San Rafael",
+    "tipo": "localidad",
+    "codigo": "071422",
+    "lat": -35.3074574,
+    "lng": -71.5234986,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Santa Olga",
+    "tipo": "localidad",
+    "codigo": "071423",
+    "lat": -35.4507961,
+    "lng": -72.2792394,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Vilches",
+    "tipo": "localidad",
+    "codigo": "071424",
+    "lat": -35.6,
+    "lng": -71.2,
+    "url": "",
+    "codigo_padre": "071"
+  },
+  {
+    "nombre": "Cauquenes",
+    "tipo": "localidad",
+    "codigo": "072425",
+    "lat": -35.9676285,
+    "lng": -72.32223309999999,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Chanco",
+    "tipo": "localidad",
+    "codigo": "072426",
+    "lat": -36.266667,
+    "lng": -72.716667,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Chovellén",
+    "tipo": "localidad",
+    "codigo": "072427",
+    "lat": -35.9,
+    "lng": -72.6833,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Curanipe",
+    "tipo": "localidad",
+    "codigo": "072428",
+    "lat": -35.8453509,
+    "lng": -72.6331084,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Mariscadero",
+    "tipo": "localidad",
+    "codigo": "072429",
+    "lat": -35.8170041,
+    "lng": -72.5854635,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Pelluhue",
+    "tipo": "localidad",
+    "codigo": "072430",
+    "lat": -35.9051317,
+    "lng": -72.5914616,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Pilén",
+    "tipo": "localidad",
+    "codigo": "072431",
+    "lat": -35.95,
+    "lng": -72.41669999999999,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Quilhuiné",
+    "tipo": "localidad",
+    "codigo": "072432",
+    "lat": -35.592553,
+    "lng": -72.522044,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Sauzal",
+    "tipo": "localidad",
+    "codigo": "072433",
+    "lat": -35.7208139,
+    "lng": -72.126685,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Tregualemu",
+    "tipo": "localidad",
+    "codigo": "072434",
+    "lat": -35.99973,
+    "lng": -72.7747104,
+    "url": "",
+    "codigo_padre": "072"
+  },
+  {
+    "nombre": "Curicó",
+    "tipo": "localidad",
+    "codigo": "073435",
+    "lat": -34.9779853,
+    "lng": -71.2528803,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Duao",
+    "tipo": "localidad",
+    "codigo": "073436",
+    "lat": -34.9005906,
+    "lng": -72.17916559999999,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Hualañé",
+    "tipo": "localidad",
+    "codigo": "073437",
+    "lat": -34.9725157,
+    "lng": -71.7993371,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Iloca",
+    "tipo": "localidad",
+    "codigo": "073438",
+    "lat": -34.9417935,
+    "lng": -72.18357859999999,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "La Huerta de Mataquito",
+    "tipo": "localidad",
+    "codigo": "073439",
+    "lat": -35.0667,
+    "lng": -71.66669999999999,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Licantén",
+    "tipo": "localidad",
+    "codigo": "073440",
+    "lat": -34.9852447,
+    "lng": -71.984988,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Llico",
+    "tipo": "localidad",
+    "codigo": "073441",
+    "lat": -34.7635133,
+    "lng": -72.0797766,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Lontué",
+    "tipo": "localidad",
+    "codigo": "073442",
+    "lat": -35.0567954,
+    "lng": -71.26886019999999,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Lora",
+    "tipo": "localidad",
+    "codigo": "073443",
+    "lat": -35.0269185,
+    "lng": -72.0707738,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Molina",
+    "tipo": "localidad",
+    "codigo": "073444",
+    "lat": -35.1164987,
+    "lng": -71.2829759,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Peteroa",
+    "tipo": "localidad",
+    "codigo": "073445",
+    "lat": -35.23999999999999,
+    "lng": -70.57,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Pichingal",
+    "tipo": "localidad",
+    "codigo": "073446",
+    "lat": -35.1166741,
+    "lng": -71.2024074,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Potrero Grande",
+    "tipo": "localidad",
+    "codigo": "073447",
+    "lat": -35.2,
+    "lng": -70.88329999999999,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Rauco",
+    "tipo": "localidad",
+    "codigo": "073448",
+    "lat": -34.9253441,
+    "lng": -71.3156315,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Romeral",
+    "tipo": "localidad",
+    "codigo": "073449",
+    "lat": -34.933333,
+    "lng": -71.316667,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Sagrada Familia",
+    "tipo": "localidad",
+    "codigo": "073450",
+    "lat": -34.9984205,
+    "lng": -71.34458219999999,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Teno",
+    "tipo": "localidad",
+    "codigo": "073451",
+    "lat": -34.8702993,
+    "lng": -71.1664033,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Vichuquén",
+    "tipo": "localidad",
+    "codigo": "073452",
+    "lat": -34.8837446,
+    "lng": -71.9953972,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Villa Prat",
+    "tipo": "localidad",
+    "codigo": "073453",
+    "lat": -35.0990368,
+    "lng": -71.6173973,
+    "url": "",
+    "codigo_padre": "073"
+  },
+  {
+    "nombre": "Linares",
+    "tipo": "localidad",
+    "codigo": "074454",
+    "lat": -35.846407,
+    "lng": -71.59961369999999,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Abránquil",
+    "tipo": "localidad",
+    "codigo": "074455",
+    "lat": -35.7461573,
+    "lng": -71.5405025,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Bobadilla",
+    "tipo": "localidad",
+    "codigo": "074456",
+    "lat": -35.8418279,
+    "lng": -71.5991694,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Caliboro",
+    "tipo": "localidad",
+    "codigo": "074457",
+    "lat": -35.8279843,
+    "lng": -71.91965309999999,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Huacarneco",
+    "tipo": "localidad",
+    "codigo": "074458",
+    "lat": -36.0211448,
+    "lng": -71.743543,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Huaraculén",
+    "tipo": "localidad",
+    "codigo": "074459",
+    "lat": -35.846407,
+    "lng": -71.59961369999999,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Huerta de Maule",
+    "tipo": "localidad",
+    "codigo": "074460",
+    "lat": -35.6649349,
+    "lng": -71.9459837,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Longaví",
+    "tipo": "localidad",
+    "codigo": "074461",
+    "lat": -35.9636265,
+    "lng": -71.6831251,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Nirivilo",
+    "tipo": "localidad",
+    "codigo": "074462",
+    "lat": -35.5437441,
+    "lng": -72.0909933,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Palmilla",
+    "tipo": "localidad",
+    "codigo": "074463",
+    "lat": -35.8073462,
+    "lng": -71.733404,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Panimávida",
+    "tipo": "localidad",
+    "codigo": "074464",
+    "lat": -35.758829,
+    "lng": -71.4158358,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Parral",
+    "tipo": "localidad",
+    "codigo": "074465",
+    "lat": -36.1406484,
+    "lng": -71.8227528,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Río Purapel",
+    "tipo": "localidad",
+    "codigo": "074466",
+    "lat": -35.6359838,
+    "lng": -72.12084290000001,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Putagán",
+    "tipo": "localidad",
+    "codigo": "074467",
+    "lat": -35.7703366,
+    "lng": -71.6652933,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Quinamávida",
+    "tipo": "localidad",
+    "codigo": "074468",
+    "lat": -35.7832999,
+    "lng": -71.4333,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Rari",
+    "tipo": "localidad",
+    "codigo": "074469",
+    "lat": -35.7667,
+    "lng": -71.41669999999999,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Retiro",
+    "tipo": "localidad",
+    "codigo": "074470",
+    "lat": -36.05,
+    "lng": -71.7667,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "San Javier de Loncomilla",
+    "tipo": "localidad",
+    "codigo": "074471",
+    "lat": -35.5930962,
+    "lng": -71.73250209999999,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Villa Alegre",
+    "tipo": "localidad",
+    "codigo": "074472",
+    "lat": -35.6761961,
+    "lng": -71.7439129,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Yerbas Buenas",
+    "tipo": "localidad",
+    "codigo": "074473",
+    "lat": -35.750077,
+    "lng": -71.58373279999999,
+    "url": "",
+    "codigo_padre": "074"
+  },
+  {
+    "nombre": "Bellavista",
+    "tipo": "localidad",
+    "codigo": "081474",
+    "lat": -36.8028244,
+    "lng": -73.0480832,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Caleta Tumbes",
+    "tipo": "localidad",
+    "codigo": "081477",
+    "lat": -36.6404955,
+    "lng": -73.09405129999999,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Chiguayante",
+    "tipo": "localidad",
+    "codigo": "081478",
+    "lat": -36.9532166,
+    "lng": -73.01737800000001,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Chivilingo",
+    "tipo": "localidad",
+    "codigo": "081479",
+    "lat": -37.1349406,
+    "lng": -73.147235,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Cocholgüe",
+    "tipo": "localidad",
+    "codigo": "081480",
+    "lat": -36.5927387,
+    "lng": -72.9737067,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Colcura",
+    "tipo": "localidad",
+    "codigo": "081481",
+    "lat": -37.1137103,
+    "lng": -73.14763959999999,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Coliumo",
+    "tipo": "localidad",
+    "codigo": "081482",
+    "lat": -36.5523388,
+    "lng": -72.9572063,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Concepción",
+    "tipo": "localidad",
+    "codigo": "081483",
+    "lat": -36.8201352,
+    "lng": -73.0443904,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Coronel",
+    "tipo": "localidad",
+    "codigo": "081484",
+    "lat": -37.0340769,
+    "lng": -73.1404838,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Dichato",
+    "tipo": "localidad",
+    "codigo": "081485",
+    "lat": -36.545039,
+    "lng": -72.9315061,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Florida",
+    "tipo": "localidad",
+    "codigo": "081486",
+    "lat": -36.8237875,
+    "lng": -72.66847179999999,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Hualqui",
+    "tipo": "localidad",
+    "codigo": "081487",
+    "lat": -36.9737875,
+    "lng": -72.9368437,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Lirquén",
+    "tipo": "localidad",
+    "codigo": "081488",
+    "lat": -36.7060687,
+    "lng": -72.9767406,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Lloicura",
+    "tipo": "localidad",
+    "codigo": "081489",
+    "lat": -36.6938673,
+    "lng": -72.7695299,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Lota",
+    "tipo": "localidad",
+    "codigo": "081490",
+    "lat": -37.0920575,
+    "lng": -73.1545822,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Penco",
+    "tipo": "localidad",
+    "codigo": "081491",
+    "lat": -36.7333,
+    "lng": -72.9833,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Pingueral",
+    "tipo": "localidad",
+    "codigo": "081492",
+    "lat": -36.5311999,
+    "lng": -72.93015059999999,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Punta de Parra",
+    "tipo": "localidad",
+    "codigo": "081494",
+    "lat": -36.6730787,
+    "lng": -72.9732275,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Rafael",
+    "tipo": "localidad",
+    "codigo": "081495",
+    "lat": -36.63092,
+    "lng": -72.78819299999999,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Santa Juana",
+    "tipo": "localidad",
+    "codigo": "081496",
+    "lat": -37.1749687,
+    "lng": -72.9457031,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Talcahuano",
+    "tipo": "localidad",
+    "codigo": "081497",
+    "lat": -36.7247834,
+    "lng": -73.1169808,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Tanahuillín",
+    "tipo": "localidad",
+    "codigo": "081498",
+    "lat": -37.2182805,
+    "lng": -72.8256991,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Tomé",
+    "tipo": "localidad",
+    "codigo": "081499",
+    "lat": -36.6131562,
+    "lng": -72.9588593,
+    "url": "",
+    "codigo_padre": "081"
+  },
+  {
+    "nombre": "Antihuala",
+    "tipo": "localidad",
+    "codigo": "082500",
+    "lat": -37.6717358,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.3921288
+  },
+  {
+    "nombre": "Arauco",
+    "tipo": "localidad",
+    "codigo": "082501",
+    "lat": -37.2457765,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.3166644
+  },
+  {
+    "nombre": "Canihual",
+    "tipo": "localidad",
+    "codigo": "082502",
+    "lat": -37.2457765,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.3166644
+  },
+  {
+    "nombre": "Cañete",
+    "tipo": "localidad",
+    "codigo": "082503",
+    "lat": -37.8058201,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.3919739
+  },
+  {
+    "nombre": "Carampangue",
+    "tipo": "localidad",
+    "codigo": "082504",
+    "lat": -37.2548769,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.2355041
+  },
+  {
+    "nombre": "Cayucupil",
+    "tipo": "localidad",
+    "codigo": "082505",
+    "lat": -37.8127905,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.25311549999999
+  },
+  {
+    "nombre": "Cerro Alto",
+    "tipo": "localidad",
+    "codigo": "082506",
+    "lat": -37.3002778,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.5502778
+  },
+  {
+    "nombre": "Contulmo",
+    "tipo": "localidad",
+    "codigo": "082507",
+    "lat": -38.0149266,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.2292878
+  },
+  {
+    "nombre": "Curanilahue",
+    "tipo": "localidad",
+    "codigo": "082508",
+    "lat": -37.4762431,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.3421243
+  },
+  {
+    "nombre": "Laraquete",
+    "tipo": "localidad",
+    "codigo": "082509",
+    "lat": -37.1625473,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.181213
+  },
+  {
+    "nombre": "Lebu",
+    "tipo": "localidad",
+    "codigo": "082510",
+    "lat": -37.6097143,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.6483294
+  },
+  {
+    "nombre": "Llico",
+    "tipo": "localidad",
+    "codigo": "082511",
+    "lat": -37.197235,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.56451500000001
+  },
+  {
+    "nombre": "Los álamos",
+    "tipo": "localidad",
+    "codigo": "082512",
+    "lat": -37.6261237,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.46226639999999
+  },
+  {
+    "nombre": "Quiapo",
+    "tipo": "localidad",
+    "codigo": "082513",
+    "lat": -37.4413921,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.55940869999999
+  },
+  {
+    "nombre": "Quidico",
+    "tipo": "localidad",
+    "codigo": "082514",
+    "lat": -38.2505694,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.48533429999999
+  },
+  {
+    "nombre": "Tirúa",
+    "tipo": "localidad",
+    "codigo": "082515",
+    "lat": -38.3419149,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.495516
+  },
+  {
+    "nombre": "Tranaquepe",
+    "tipo": "localidad",
+    "codigo": "082516",
+    "lat": -38.21250000000001,
+    "url": "",
+    "codigo_padre": "082",
+    "lng": -73.4422222
+  },
+  {
+    "nombre": "Antuco",
+    "tipo": "localidad",
+    "codigo": "083517",
+    "lat": -37.3313164,
+    "lng": -71.67642769999999,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Cabrero",
+    "tipo": "localidad",
+    "codigo": "083518",
+    "lat": -37.0332999,
+    "lng": -72.39999999999999,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Coihue",
+    "tipo": "localidad",
+    "codigo": "083519",
+    "lat": -37.560848,
+    "lng": -72.59406299999999,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Estación",
+    "tipo": "localidad",
+    "codigo": "083520",
+    "lat": -33.4590774,
+    "lng": -70.6990045,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Huépil",
+    "tipo": "localidad",
+    "codigo": "083521",
+    "lat": -37.2402948,
+    "lng": -71.9425881,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "La Laja",
+    "tipo": "localidad",
+    "codigo": "083522",
+    "lat": -37.271425,
+    "lng": -72.7194906,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Los ángeles",
+    "tipo": "localidad",
+    "codigo": "083523",
+    "lat": -37.4629159,
+    "lng": -72.3612251,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Monte águila",
+    "tipo": "localidad",
+    "codigo": "083524",
+    "lat": -37.0803418,
+    "lng": -72.4399189,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Mulchén",
+    "tipo": "localidad",
+    "codigo": "083525",
+    "lat": -37.7178812,
+    "lng": -72.23743429999999,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Nacimiento",
+    "tipo": "localidad",
+    "codigo": "083526",
+    "lat": -37.5059062,
+    "lng": -72.67378750000002,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Negrete",
+    "tipo": "localidad",
+    "codigo": "083527",
+    "lat": -37.5862531,
+    "lng": -72.5320562,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Polcura",
+    "tipo": "localidad",
+    "codigo": "083528",
+    "lat": -37.2886161,
+    "lng": -71.7251175,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Quilaco",
+    "tipo": "localidad",
+    "codigo": "083529",
+    "lat": -37.6875544,
+    "lng": -71.9986626,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Quilleco",
+    "tipo": "localidad",
+    "codigo": "083530",
+    "lat": -37.4741645,
+    "lng": -71.9836205,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Quinel",
+    "tipo": "localidad",
+    "codigo": "083531",
+    "lat": -37.0307244,
+    "lng": -72.40574769999999,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Rere",
+    "tipo": "localidad",
+    "codigo": "083532",
+    "lat": -37.1333,
+    "lng": -72.7320562,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Rihue",
+    "tipo": "localidad",
+    "codigo": "083533",
+    "lat": -36.9777206,
+    "lng": -72.331113,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Santa Bárbara",
+    "tipo": "localidad",
+    "codigo": "083534",
+    "lat": -37.66670000000001,
+    "lng": -72.0167,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Santa Fe",
+    "tipo": "localidad",
+    "codigo": "083535",
+    "lat": -37.45,
+    "lng": -72.5833,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Trupán",
+    "tipo": "localidad",
+    "codigo": "083536",
+    "lat": -37.2747754,
+    "lng": -71.84072789999999,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Tucapel",
+    "tipo": "localidad",
+    "codigo": "083537",
+    "lat": -37.2923048,
+    "lng": -71.95121859999999,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Villa Mercedes",
+    "tipo": "localidad",
+    "codigo": "083538",
+    "lat": -37.4101902,
+    "lng": -71.98074919999999,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Yumbel",
+    "tipo": "localidad",
+    "codigo": "083539",
+    "lat": -37.0833,
+    "lng": -72.5667,
+    "url": "",
+    "codigo_padre": "083"
+  },
+  {
+    "nombre": "Barros Arana",
+    "tipo": "localidad",
+    "codigo": "091540",
+    "lat": -38.9834482,
+    "lng": -72.92134,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Boroa",
+    "tipo": "localidad",
+    "codigo": "091541",
+    "lat": -38.7517718,
+    "lng": -72.8350718,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Cajón",
+    "tipo": "localidad",
+    "codigo": "091542",
+    "lat": -38.6667,
+    "lng": -72.5,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Carahue",
+    "tipo": "localidad",
+    "codigo": "091543",
+    "lat": -38.7088593,
+    "lng": -73.1678812,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Catripulli",
+    "tipo": "localidad",
+    "codigo": "091544",
+    "lat": -39.3583358,
+    "lng": -71.7030381,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Chile Nuestro",
+    "tipo": "localidad",
+    "codigo": "091545",
+    "lat": -38.948921,
+    "lng": -72.331113,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Cholchol",
+    "tipo": "localidad",
+    "codigo": "091546",
+    "lat": -38.6005906,
+    "lng": -72.8411406,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Coihueco",
+    "tipo": "localidad",
+    "codigo": "091547",
+    "lat": -36.658296,
+    "lng": -71.6198686,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Cunco",
+    "tipo": "localidad",
+    "codigo": "091548",
+    "lat": -38.9320562,
+    "lng": -72.0279843,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Curarrehue",
+    "tipo": "localidad",
+    "codigo": "091549",
+    "lat": -39.3616465,
+    "lng": -71.5890276,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "El Capricho",
+    "tipo": "localidad",
+    "codigo": "091550",
+    "lat": -38.3841454,
+    "lng": -72.7132884,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Faja Maisan",
+    "tipo": "localidad",
+    "codigo": "091551",
+    "lat": -38.8528883,
+    "lng": -72.6954391,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Freire",
+    "tipo": "localidad",
+    "codigo": "091552",
+    "lat": -38.9573,
+    "lng": -72.6269289,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Galvarino",
+    "tipo": "localidad",
+    "codigo": "091553",
+    "lat": -38.4088593,
+    "lng": -72.7821187,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Gorbea",
+    "tipo": "localidad",
+    "codigo": "091554",
+    "lat": -39.1005597,
+    "lng": -72.67636,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Huiscapi",
+    "tipo": "localidad",
+    "codigo": "091555",
+    "lat": -39.2961513,
+    "lng": -72.4055808,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Labranza",
+    "tipo": "localidad",
+    "codigo": "091556",
+    "lat": -38.7638919,
+    "lng": -72.7502363,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Las Araucarias",
+    "tipo": "localidad",
+    "codigo": "091557",
+    "lat": -38.4878363,
+    "lng": -73.2624264,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Lautaro",
+    "tipo": "localidad",
+    "codigo": "091558",
+    "lat": -38.5084312,
+    "lng": -72.45413429999999,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Lican Ray",
+    "tipo": "localidad",
+    "codigo": "091559",
+    "lat": -39.4848363,
+    "lng": -72.1630247,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Loncoche",
+    "tipo": "localidad",
+    "codigo": "091560",
+    "lat": -39.3681199,
+    "lng": -72.6315127,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Melipeuco",
+    "tipo": "localidad",
+    "codigo": "091561",
+    "lat": -38.852306,
+    "lng": -71.6929428,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Molco",
+    "tipo": "localidad",
+    "codigo": "091562",
+    "lat": -39.330875,
+    "lng": -72.0945218,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Nueva Imperial",
+    "tipo": "localidad",
+    "codigo": "091563",
+    "lat": -38.7445218,
+    "lng": -72.9482281,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Perquenco",
+    "tipo": "localidad",
+    "codigo": "091564",
+    "lat": -38.4161093,
+    "lng": -72.37562179999999,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Pillanlelbún",
+    "tipo": "localidad",
+    "codigo": "091565",
+    "lat": -38.948921,
+    "lng": -72.331113,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Pitrufquén",
+    "tipo": "localidad",
+    "codigo": "091566",
+    "lat": -38.9833,
+    "lng": -72.6417312,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Pucón",
+    "tipo": "localidad",
+    "codigo": "091567",
+    "lat": -39.2722541,
+    "lng": -71.9776285,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Queule",
+    "tipo": "localidad",
+    "codigo": "091568",
+    "lat": -39.3968262,
+    "lng": -73.2091256,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Saavedra",
+    "tipo": "localidad",
+    "codigo": "091569",
+    "lat": -38.7832999,
+    "lng": -73.39999999999999,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Temuco",
+    "tipo": "localidad",
+    "codigo": "091570",
+    "lat": -38.7359018,
+    "lng": -72.5903739,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Teodoro Schmidt",
+    "tipo": "localidad",
+    "codigo": "091571",
+    "lat": -38.9991844,
+    "lng": -73.0942969,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Toltén",
+    "tipo": "localidad",
+    "codigo": "091572",
+    "lat": -39.2043263,
+    "lng": -73.2077436,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Trovolhue",
+    "tipo": "localidad",
+    "codigo": "091573",
+    "lat": -38.6314258,
+    "lng": -73.32323819999999,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Vilcún",
+    "tipo": "localidad",
+    "codigo": "091574",
+    "lat": -38.6677187,
+    "lng": -72.2244406,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Villa Almagro",
+    "tipo": "localidad",
+    "codigo": "091575",
+    "lat": -38.7793382,
+    "lng": -72.94343789999999,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Villa Coihueco",
+    "tipo": "localidad",
+    "codigo": "091576",
+    "lat": -35.8,
+    "lng": -72.5333,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Villarrica",
+    "tipo": "localidad",
+    "codigo": "091577",
+    "lat": -39.2820124,
+    "lng": -72.2307798,
+    "url": "",
+    "codigo_padre": "091"
+  },
+  {
+    "nombre": "Curacautín",
+    "tipo": "localidad",
+    "codigo": "092578",
+    "lat": -38.4404247,
+    "lng": -71.88974329999999,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Angol",
+    "tipo": "localidad",
+    "codigo": "092579",
+    "lat": -37.8060734,
+    "lng": -72.70380469999999,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Capitán Pastene",
+    "tipo": "localidad",
+    "codigo": "092580",
+    "lat": -38.1951125,
+    "lng": -72.9917312,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Curaco",
+    "tipo": "localidad",
+    "codigo": "092581",
+    "lat": -38.0173421,
+    "lng": -72.3544175,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Ercilla",
+    "tipo": "localidad",
+    "codigo": "092582",
+    "lat": -38.0553156,
+    "lng": -72.38329999999999,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Huequén",
+    "tipo": "localidad",
+    "codigo": "092583",
+    "lat": -37.8167,
+    "lng": -72.67260619999999,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Icalma",
+    "tipo": "localidad",
+    "codigo": "092584",
+    "lat": -38.8119749,
+    "lng": -71.2827093,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Los Sauces",
+    "tipo": "localidad",
+    "codigo": "092585",
+    "lat": -37.9791031,
+    "lng": -72.8344812,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Lumaco",
+    "tipo": "localidad",
+    "codigo": "092586",
+    "lat": -38.16402009999999,
+    "lng": -72.9031846,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Malalcahuello",
+    "tipo": "localidad",
+    "codigo": "092587",
+    "lat": -38.4720466,
+    "lng": -71.60601849999999,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Mininco",
+    "tipo": "localidad",
+    "codigo": "092588",
+    "lat": -37.7832999,
+    "lng": -72.4667,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Pailahueque",
+    "tipo": "localidad",
+    "codigo": "092589",
+    "lat": -38.1273324,
+    "lng": -72.3007284,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Pemehue",
+    "tipo": "localidad",
+    "codigo": "092590",
+    "lat": -38.0698461,
+    "lng": -71.703425,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Pidima",
+    "tipo": "localidad",
+    "codigo": "092591",
+    "lat": -38.0181011,
+    "lng": -72.4277615,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Purén",
+    "tipo": "localidad",
+    "codigo": "092592",
+    "lat": -38.0326817,
+    "lng": -73.07182829999999,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Quino",
+    "tipo": "localidad",
+    "codigo": "092593",
+    "lat": -38.3,
+    "lng": -72.35,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Renaico",
+    "tipo": "localidad",
+    "codigo": "092594",
+    "lat": -37.6737875,
+    "lng": -72.5892062,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Temucuicui",
+    "tipo": "localidad",
+    "codigo": "092595",
+    "lat": -38.1635613,
+    "lng": -72.5204827,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Traiguén",
+    "tipo": "localidad",
+    "codigo": "092596",
+    "lat": -38.25,
+    "lng": -72.6833,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Victoria",
+    "tipo": "localidad",
+    "codigo": "092597",
+    "lat": -38.2326538,
+    "lng": -72.3515084,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Villa Esperanza",
+    "tipo": "localidad",
+    "codigo": "092598",
+    "lat": -38.1635613,
+    "lng": -72.5204827,
+    "url": "",
+    "codigo_padre": "092"
+  },
+  {
+    "nombre": "Abtao",
+    "tipo": "localidad",
+    "codigo": "101599",
+    "lat": -41.7785749,
+    "lng": -73.3994093,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Alerce",
+    "tipo": "localidad",
+    "codigo": "101600",
+    "lat": -41.3952749,
+    "lng": -72.9167624,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Alto Puelo",
+    "tipo": "localidad",
+    "codigo": "101601",
+    "lat": -41.6597648,
+    "lng": -72.2838094,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Angelmó",
+    "tipo": "localidad",
+    "codigo": "101602",
+    "lat": -41.4832938,
+    "lng": -72.9587274,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Calbuco",
+    "tipo": "localidad",
+    "codigo": "101603",
+    "lat": -41.7720156,
+    "lng": -73.1327093,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Caleta Chaparano",
+    "tipo": "localidad",
+    "codigo": "101604",
+    "lat": -41.75,
+    "lng": -72.5833,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Caleta La Arena",
+    "tipo": "localidad",
+    "codigo": "101605",
+    "lat": -41.712222,
+    "lng": -72.6528747,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Carelmapu",
+    "tipo": "localidad",
+    "codigo": "101606",
+    "lat": -41.7416513,
+    "lng": -73.69859439999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Cascajal",
+    "tipo": "localidad",
+    "codigo": "101607",
+    "lat": -41.602732,
+    "lng": -72.3015111,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Chamiza",
+    "tipo": "localidad",
+    "codigo": "101608",
+    "lat": -41.4678812,
+    "lng": -72.8446843,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Chayahué",
+    "tipo": "localidad",
+    "codigo": "101609",
+    "lat": -41.7748958,
+    "lng": -73.1266816,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Cochamó",
+    "tipo": "localidad",
+    "codigo": "101610",
+    "lat": -41.4923218,
+    "lng": -72.3084312,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Correntoso",
+    "tipo": "localidad",
+    "codigo": "101611",
+    "lat": -41.4205058,
+    "lng": -72.66980939999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "El Manso",
+    "tipo": "localidad",
+    "codigo": "101612",
+    "lat": -41.6003689,
+    "lng": -71.738519,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Ensenada",
+    "tipo": "localidad",
+    "codigo": "101613",
+    "lat": -41.2070875,
+    "lng": -72.5387781,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Fresia",
+    "tipo": "localidad",
+    "codigo": "101614",
+    "lat": -41.15,
+    "lng": -73.4163343,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Frutillar",
+    "tipo": "localidad",
+    "codigo": "101615",
+    "lat": -41.112498,
+    "lng": -73.0496952,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "La Junta",
+    "tipo": "localidad",
+    "codigo": "101616",
+    "lat": -43.97155619999999,
+    "lng": -72.4029891,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Las Gualas",
+    "tipo": "localidad",
+    "codigo": "101617",
+    "lat": -41.6350718,
+    "lng": -72.22083429999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Llaguepe",
+    "tipo": "localidad",
+    "codigo": "101618",
+    "lat": -41.7256218,
+    "lng": -72.46906249999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Llanada Grande",
+    "tipo": "localidad",
+    "codigo": "101619",
+    "lat": -41.8771431,
+    "lng": -71.92922999999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Llanquihue",
+    "tipo": "localidad",
+    "codigo": "101620",
+    "lat": -41.2606312,
+    "lng": -73.0078406,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Los Morros",
+    "tipo": "localidad",
+    "codigo": "101621",
+    "lat": -41.2333,
+    "lng": -71.88329999999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Los Muermos",
+    "tipo": "localidad",
+    "codigo": "101622",
+    "lat": -41.3994093,
+    "lng": -73.4649905,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Los Riscos",
+    "tipo": "localidad",
+    "codigo": "101623",
+    "lat": -41.3314279,
+    "lng": -72.9732977,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Maullín",
+    "tipo": "localidad",
+    "codigo": "101624",
+    "lat": -41.614807,
+    "lng": -73.5990281,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Nueva Braunau",
+    "tipo": "localidad",
+    "codigo": "101625",
+    "lat": -41.32330760000001,
+    "lng": -73.0807847,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Pargua",
+    "tipo": "localidad",
+    "codigo": "101626",
+    "lat": -41.7924428,
+    "lng": -73.4648739,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Paso El León",
+    "tipo": "localidad",
+    "codigo": "101627",
+    "lat": -41.3606399,
+    "lng": -72.5204827,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Pelluco",
+    "tipo": "localidad",
+    "codigo": "101628",
+    "lat": -41.4865803,
+    "lng": -72.9028735,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Petrohué",
+    "tipo": "localidad",
+    "codigo": "101630",
+    "lat": -41.14097810000001,
+    "lng": -72.4078406,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Peulla",
+    "tipo": "localidad",
+    "codigo": "101631",
+    "lat": -41.0881874,
+    "lng": -72.0220781,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Pocoihuén",
+    "tipo": "localidad",
+    "codigo": "101632",
+    "lat": -41.5479791,
+    "lng": -72.3455014,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Primer Corral",
+    "tipo": "localidad",
+    "codigo": "101633",
+    "lat": -41.9992241,
+    "lng": -71.90872279999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Pucheguín",
+    "tipo": "localidad",
+    "codigo": "101634",
+    "lat": -41.5925,
+    "lng": -72.32194439999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Puelo Bajo",
+    "tipo": "localidad",
+    "codigo": "101635",
+    "lat": -41.6597648,
+    "lng": -72.2838094,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Puerto Montt",
+    "tipo": "localidad",
+    "codigo": "101636",
+    "lat": -41.468917,
+    "lng": -72.94113639999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Puerto Varas",
+    "tipo": "localidad",
+    "codigo": "101637",
+    "lat": -41.3167,
+    "lng": -72.9833,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Punta Canelo",
+    "tipo": "localidad",
+    "codigo": "101638",
+    "lat": -41.6482306,
+    "lng": -72.1687317,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Quenuir",
+    "tipo": "localidad",
+    "codigo": "101640",
+    "lat": -41.5424306,
+    "lng": -73.67127599999999,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Ralún",
+    "tipo": "localidad",
+    "codigo": "101641",
+    "lat": -41.374722,
+    "lng": -72.318889,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Río Puelo",
+    "tipo": "localidad",
+    "codigo": "101642",
+    "lat": -41.8829212,
+    "lng": -71.98751380000002,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "San Luis",
+    "tipo": "localidad",
+    "codigo": "101643",
+    "lat": -41.6158333,
+    "lng": -72.4069444,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Segundo Corral",
+    "tipo": "localidad",
+    "codigo": "101644",
+    "lat": -41.3606399,
+    "lng": -72.5204827,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Sotomó",
+    "tipo": "localidad",
+    "codigo": "101645",
+    "lat": -41.65,
+    "lng": -72.3167,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Steffen",
+    "tipo": "localidad",
+    "codigo": "101646",
+    "lat": -41.2606312,
+    "lng": -73.0078406,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Correntoso",
+    "tipo": "localidad",
+    "codigo": "101647",
+    "lat": -39.4868467,
+    "lng": -71.5465043,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Puerto del Yate",
+    "tipo": "localidad",
+    "codigo": "101649",
+    "lat": -41.754722,
+    "lng": -72.396389,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Tegualda",
+    "tipo": "localidad",
+    "codigo": "101650",
+    "lat": -41.0395338,
+    "lng": -73.4065548,
+    "url": "",
+    "codigo_padre": "101"
+  },
+  {
+    "nombre": "Aldachildo",
+    "tipo": "localidad",
+    "codigo": "102651",
+    "lat": -42.5838962,
+    "lng": -73.6119648,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Bahía de Caulín",
+    "tipo": "localidad",
+    "codigo": "102652",
+    "lat": -41.8257725,
+    "lng": -73.6213993,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Chacao",
+    "tipo": "localidad",
+    "codigo": "102653",
+    "lat": -41.8286423,
+    "lng": -73.5322747,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Cucao",
+    "tipo": "localidad",
+    "codigo": "102654",
+    "lat": -42.6333,
+    "lng": -74.1167,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Detif",
+    "tipo": "localidad",
+    "codigo": "102655",
+    "lat": -42.69692149999999,
+    "lng": -73.54577549999999,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Nercón",
+    "tipo": "localidad",
+    "codigo": "102656",
+    "lat": -42.49893,
+    "lng": -73.7804841,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Quetalco",
+    "tipo": "localidad",
+    "codigo": "102657",
+    "lat": -42.3333,
+    "lng": -73.55,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Quíquel",
+    "tipo": "localidad",
+    "codigo": "102658",
+    "lat": -42.3574214,
+    "lng": -73.6008815,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "San Juan",
+    "tipo": "localidad",
+    "codigo": "102659",
+    "lat": -42.32359710000001,
+    "lng": -73.5117732,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Tenaún",
+    "tipo": "localidad",
+    "codigo": "102660",
+    "lat": -42.333333,
+    "lng": -73.3833329,
+    "url": "",
+    "codigo_padre": "102"
+  },
+  {
+    "nombre": "Bahía Mansa",
+    "tipo": "localidad",
+    "codigo": "103661",
+    "lat": -40.5842563,
+    "lng": -73.7359874,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Caleta Cóndor",
+    "tipo": "localidad",
+    "codigo": "103662",
+    "lat": -40.5870177,
+    "lng": -73.114589,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Caleta Huellelhue",
+    "tipo": "localidad",
+    "codigo": "103663",
+    "lat": -40.7078903,
+    "lng": -73.79070949999999,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Cancha Larga",
+    "tipo": "localidad",
+    "codigo": "103664",
+    "lat": -40.4309296,
+    "lng": -73.2990485,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Cofalmo",
+    "tipo": "localidad",
+    "codigo": "103665",
+    "lat": -40.5761897,
+    "lng": -73.11494689999999,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Currimahuida",
+    "tipo": "localidad",
+    "codigo": "103666",
+    "lat": -40.5761897,
+    "lng": -73.11494689999999,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Forrahue",
+    "tipo": "localidad",
+    "codigo": "103667",
+    "lat": -40.5611859,
+    "lng": -73.1688969,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "La Junta",
+    "tipo": "localidad",
+    "codigo": "103668",
+    "lat": -40.8770535,
+    "lng": -73.2852873,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Los Juncos",
+    "tipo": "localidad",
+    "codigo": "103669",
+    "lat": -40.5761897,
+    "lng": -73.11494689999999,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Maicolpue",
+    "tipo": "localidad",
+    "codigo": "103670",
+    "lat": -40.5581248,
+    "lng": -73.1710307,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Misión de Cuínco",
+    "tipo": "localidad",
+    "codigo": "103671",
+    "lat": -40.539145,
+    "lng": -73.150019,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Misión de Rahue",
+    "tipo": "localidad",
+    "codigo": "103672",
+    "lat": -40.574506,
+    "lng": -73.131918,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Ñochaco",
+    "tipo": "localidad",
+    "codigo": "103673",
+    "lat": -40.9374343,
+    "lng": -72.8768031,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Pucatrihue",
+    "tipo": "localidad",
+    "codigo": "103674",
+    "lat": -40.5352416,
+    "lng": -73.70883789999999,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Puerto Octay",
+    "tipo": "localidad",
+    "codigo": "103675",
+    "lat": -40.9768373,
+    "lng": -72.8819616,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Puilo",
+    "tipo": "localidad",
+    "codigo": "103676",
+    "lat": -40.5826043,
+    "lng": -73.16378139999999,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Purranque",
+    "tipo": "localidad",
+    "codigo": "103677",
+    "lat": -40.9084312,
+    "lng": -73.1661093,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Puyehue",
+    "tipo": "localidad",
+    "codigo": "103678",
+    "lat": -40.6607937,
+    "lng": -72.61315619999999,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Quilacahuín",
+    "tipo": "localidad",
+    "codigo": "103679",
+    "lat": -40.3743534,
+    "lng": -73.26772090000001,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Riachuelo",
+    "tipo": "localidad",
+    "codigo": "103680",
+    "lat": -40.8180245,
+    "lng": -73.3244618,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Río Negro",
+    "tipo": "localidad",
+    "codigo": "103681",
+    "lat": -40.7832999,
+    "lng": -73.23330000000001,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "San Pablo",
+    "tipo": "localidad",
+    "codigo": "103682",
+    "lat": -40.4124926,
+    "lng": -73.0124926,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Trinquicahuín",
+    "tipo": "localidad",
+    "codigo": "103683",
+    "lat": -40.5761897,
+    "lng": -73.11494689999999,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Trome",
+    "tipo": "localidad",
+    "codigo": "103684",
+    "lat": -40.5618673,
+    "lng": -73.1785761,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Trumao",
+    "tipo": "localidad",
+    "codigo": "103685",
+    "lat": -40.3619259,
+    "lng": -73.1636559,
+    "url": "",
+    "codigo_padre": "103"
+  },
+  {
+    "nombre": "Ayacara",
+    "tipo": "localidad",
+    "codigo": "104686",
+    "lat": -42.315737,
+    "lng": -72.779187,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Aulen",
+    "tipo": "localidad",
+    "codigo": "104687",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Buill",
+    "tipo": "localidad",
+    "codigo": "104688",
+    "lat": -42.3979374,
+    "lng": -72.71977780000002,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Cholgo",
+    "tipo": "localidad",
+    "codigo": "104689",
+    "lat": -42.0759494,
+    "lng": -72.4488725,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Curamin",
+    "tipo": "localidad",
+    "codigo": "104690",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta El Manzano",
+    "tipo": "localidad",
+    "codigo": "104691",
+    "lat": -42.0332999,
+    "lng": -72.64999999999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Fiordo Largo",
+    "tipo": "localidad",
+    "codigo": "104692",
+    "lat": -42.5495047,
+    "lng": -72.5647618,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Gonzalo",
+    "tipo": "localidad",
+    "codigo": "104693",
+    "lat": -42.5628936,
+    "lng": -72.6049179,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Leptepu",
+    "tipo": "localidad",
+    "codigo": "104694",
+    "lat": -42.5628936,
+    "lng": -72.6049179,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Loncochalgua",
+    "tipo": "localidad",
+    "codigo": "104695",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Pichanco",
+    "tipo": "localidad",
+    "codigo": "104696",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Pichicolo",
+    "tipo": "localidad",
+    "codigo": "104697",
+    "lat": -43.4366327,
+    "lng": -72.1416132,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Poyo",
+    "tipo": "localidad",
+    "codigo": "104698",
+    "lat": -42.2275377,
+    "lng": -72.69647549999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Puelche",
+    "tipo": "localidad",
+    "codigo": "104699",
+    "lat": -42.5628936,
+    "lng": -72.6049179,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Queten",
+    "tipo": "localidad",
+    "codigo": "104700",
+    "lat": -43.4366327,
+    "lng": -72.1416132,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Caleta Quiaca",
+    "tipo": "localidad",
+    "codigo": "104701",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Chaitén",
+    "tipo": "localidad",
+    "codigo": "104702",
+    "lat": -43.4968898,
+    "lng": -72.5204827,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Chaqueihua",
+    "tipo": "localidad",
+    "codigo": "104703",
+    "lat": -41.925673,
+    "lng": -72.42284699999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Chauchil",
+    "tipo": "localidad",
+    "codigo": "104704",
+    "lat": -41.9494779,
+    "lng": -72.7747313,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Chumildén",
+    "tipo": "localidad",
+    "codigo": "104705",
+    "lat": -42.5179267,
+    "lng": -72.8074797,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Contao",
+    "tipo": "localidad",
+    "codigo": "104706",
+    "lat": -41.80210570000001,
+    "lng": -72.7220541,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "El Cisne",
+    "tipo": "localidad",
+    "codigo": "104707",
+    "lat": -44.75,
+    "lng": -72.7,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "El Varal",
+    "tipo": "localidad",
+    "codigo": "104708",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Futaleufú",
+    "tipo": "localidad",
+    "codigo": "104709",
+    "lat": -43.1833,
+    "lng": -71.8667,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Hornopirén",
+    "tipo": "localidad",
+    "codigo": "104710",
+    "lat": -41.88027779999999,
+    "lng": -72.4333333,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Hualaihué Puerto",
+    "tipo": "localidad",
+    "codigo": "104711",
+    "lat": -42.1,
+    "lng": -72.41666699999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Huequi",
+    "tipo": "localidad",
+    "codigo": "104712",
+    "lat": -42.2516374,
+    "lng": -72.733876,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Huinay",
+    "tipo": "localidad",
+    "codigo": "104713",
+    "lat": -42.3537393,
+    "lng": -72.4340658,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "La Poza",
+    "tipo": "localidad",
+    "codigo": "104714",
+    "lat": -41.8226062,
+    "lng": -72.7631562,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Llancahué",
+    "tipo": "localidad",
+    "codigo": "104715",
+    "lat": -42.1,
+    "lng": -72.5667,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Llanchid",
+    "tipo": "localidad",
+    "codigo": "104716",
+    "lat": -42.0666667,
+    "lng": -72.63333329999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Lleguimán",
+    "tipo": "localidad",
+    "codigo": "104717",
+    "lat": -41.9844037,
+    "lng": -72.7579959,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Mañihueico",
+    "tipo": "localidad",
+    "codigo": "104718",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Palena",
+    "tipo": "localidad",
+    "codigo": "104719",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Pillán",
+    "tipo": "localidad",
+    "codigo": "104720",
+    "lat": -42.5375688,
+    "lng": -72.4892883,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Puerto Bonito",
+    "tipo": "localidad",
+    "codigo": "104721",
+    "lat": -45.9288077,
+    "lng": -73.5772599,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Quildaco Bajo",
+    "tipo": "localidad",
+    "codigo": "104723",
+    "lat": -43.4366327,
+    "lng": -72.1416132,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Reñihue",
+    "tipo": "localidad",
+    "codigo": "104724",
+    "lat": -42.5884787,
+    "lng": -72.5070691,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Rolecha",
+    "tipo": "localidad",
+    "codigo": "104725",
+    "lat": -41.9167,
+    "lng": -72.8667,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Santa Bárbara",
+    "tipo": "localidad",
+    "codigo": "104726",
+    "lat": -42.8501365,
+    "lng": -72.7971838,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Tentelhue",
+    "tipo": "localidad",
+    "codigo": "104727",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Termas de Cahuelmó",
+    "tipo": "localidad",
+    "codigo": "104728",
+    "lat": -42.256729,
+    "lng": -72.36625599999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Termas de Porcelana",
+    "tipo": "localidad",
+    "codigo": "104729",
+    "lat": -43.61669999999999,
+    "lng": -71.7999999,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Termas Lago Cabrera",
+    "tipo": "localidad",
+    "codigo": "104730",
+    "lat": -41.8654062,
+    "lng": -72.4666786,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Villa Santa Lucía",
+    "tipo": "localidad",
+    "codigo": "104731",
+    "lat": -43.4129223,
+    "lng": -72.3660519,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Vodudahue",
+    "tipo": "localidad",
+    "codigo": "104732",
+    "lat": -42.48201400000001,
+    "lng": -72.3872864,
+    "url": "",
+    "codigo_padre": "104"
+  },
+  {
+    "nombre": "Balmaceda",
+    "tipo": "localidad",
+    "codigo": "111733",
+    "lat": -45.9094313,
+    "lng": -71.69761989999999,
+    "url": "",
+    "codigo_padre": "111"
+  },
+  {
+    "nombre": "Coyhaique",
+    "tipo": "localidad",
+    "codigo": "111734",
+    "lat": -45.5712254,
+    "lng": -72.068265,
+    "url": "",
+    "codigo_padre": "111"
+  },
+  {
+    "nombre": "El Blanco",
+    "tipo": "localidad",
+    "codigo": "111735",
+    "lat": -45.8079098,
+    "lng": -71.91755959999999,
+    "url": "",
+    "codigo_padre": "111"
+  },
+  {
+    "nombre": "La Tapera",
+    "tipo": "localidad",
+    "codigo": "111736",
+    "lat": -45.56644439999999,
+    "lng": -72.07220339999999,
+    "url": "",
+    "codigo_padre": "111"
+  },
+  {
+    "nombre": "Lago Verde",
+    "tipo": "localidad",
+    "codigo": "111737",
+    "lat": -44.2385218,
+    "lng": -71.85112699999999,
+    "url": "",
+    "codigo_padre": "111"
+  },
+  {
+    "nombre": "Caleta Austral",
+    "tipo": "localidad",
+    "codigo": "113738",
+    "lat": -47.9221567,
+    "lng": -72.9278125,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Candelario Mancilla",
+    "tipo": "localidad",
+    "codigo": "113739",
+    "lat": -47.9221567,
+    "lng": -72.9278125,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Cochrane",
+    "tipo": "localidad",
+    "codigo": "113740",
+    "lat": -47.2535728,
+    "lng": -72.57298229999999,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Entrada Baker",
+    "tipo": "localidad",
+    "codigo": "113741",
+    "lat": -47.9221567,
+    "lng": -72.9278125,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Entrada Mayer",
+    "tipo": "localidad",
+    "codigo": "113742",
+    "lat": -47.9221567,
+    "lng": -72.9278125,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Isla Juan Stuven",
+    "tipo": "localidad",
+    "codigo": "113743",
+    "lat": -48.0211844,
+    "lng": -74.8927681,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Lago Brown",
+    "tipo": "localidad",
+    "codigo": "113744",
+    "lat": -47.3981527,
+    "lng": -72.2672401,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Los Ñadis",
+    "tipo": "localidad",
+    "codigo": "113745",
+    "lat": -47.6291209,
+    "lng": -72.8412226,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Villa O'Higgins",
+    "tipo": "localidad",
+    "codigo": "113746",
+    "lat": -48.48218079999999,
+    "lng": -72.5882957,
+    "url": "",
+    "codigo_padre": "113"
+  },
+  {
+    "nombre": "Chile Chico",
+    "tipo": "localidad",
+    "codigo": "114747",
+    "lat": -46.5409005,
+    "lng": -71.7222795,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Fachinal",
+    "tipo": "localidad",
+    "codigo": "114748",
+    "lat": -46.5592469,
+    "lng": -72.2049624,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Puerto Bertrand",
+    "tipo": "localidad",
+    "codigo": "114749",
+    "lat": -47.0136319,
+    "lng": -72.8255427,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Puerto Guadal",
+    "tipo": "localidad",
+    "codigo": "114750",
+    "lat": -46.8433229,
+    "lng": -72.70597939999999,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Puerto Ingeniero Ibáñez",
+    "tipo": "localidad",
+    "codigo": "114751",
+    "lat": -46.29061919999999,
+    "lng": -71.93885689999999,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Puerto Murta",
+    "tipo": "localidad",
+    "codigo": "114752",
+    "lat": -46.4557103,
+    "lng": -72.6739235,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Puerto Río Tranquilo",
+    "tipo": "localidad",
+    "codigo": "114753",
+    "lat": -46.6240234,
+    "lng": -72.6752459,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Puerto Sánchez",
+    "tipo": "localidad",
+    "codigo": "114754",
+    "lat": -46.5920142,
+    "lng": -72.5777849,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Villa Cerro Castillo",
+    "tipo": "localidad",
+    "codigo": "114755",
+    "lat": -46.533362,
+    "lng": -72.1092915,
+    "url": "",
+    "codigo_padre": "114"
+  },
+  {
+    "nombre": "Punta Arenas",
+    "tipo": "localidad",
+    "codigo": "121756",
+    "lat": -53.1638329,
+    "lng": -70.9170683,
+    "url": "",
+    "codigo_padre": "121"
+  },
+  {
+    "nombre": "Monte Aymond",
+    "tipo": "localidad",
+    "codigo": "121757",
+    "lat": -52.252703,
+    "lng": -69.867736,
+    "url": "",
+    "codigo_padre": "121"
+  },
+  {
+    "nombre": "Punta Delgada",
+    "tipo": "localidad",
+    "codigo": "121758",
+    "lat": -52.315618,
+    "lng": -69.688011,
+    "url": "",
+    "codigo_padre": "121"
+  },
+  {
+    "nombre": "Porvenir",
+    "tipo": "localidad",
+    "codigo": "123759",
+    "lat": -53.2957997,
+    "lng": -70.3666545,
+    "url": "",
+    "codigo_padre": "123"
+  },
+  {
+    "nombre": "Cameron",
+    "tipo": "localidad",
+    "codigo": "123760",
+    "lat": -53.6289348,
+    "lng": -69.6222446,
+    "url": "",
+    "codigo_padre": "123"
+  },
+  {
+    "nombre": "Cerro Sombrero",
+    "tipo": "localidad",
+    "codigo": "123761",
+    "lat": -52.764677,
+    "lng": -69.2862343,
+    "url": "",
+    "codigo_padre": "123"
+  },
+  {
+    "nombre": "Puerto Natales",
+    "tipo": "localidad",
+    "codigo": "124762",
+    "lat": -51.7308935,
+    "lng": -72.4977407,
+    "url": "",
+    "codigo_padre": "124"
+  },
+  {
+    "nombre": "Puerto Alert",
+    "tipo": "localidad",
+    "codigo": "124763",
+    "lat": -51.010239,
+    "lng": -73.4431338,
+    "url": "",
+    "codigo_padre": "124"
+  },
+  {
+    "nombre": "Puerto Bories",
+    "tipo": "localidad",
+    "codigo": "124764",
+    "lat": -51.688599,
+    "lng": -72.555138,
+    "url": "",
+    "codigo_padre": "124"
+  },
+  {
+    "nombre": "Puerto Edén",
+    "tipo": "localidad",
+    "codigo": "124765",
+    "lat": -49.139,
+    "lng": -74.453,
+    "url": "",
+    "codigo_padre": "124"
+  },
+  {
+    "nombre": "Puerto Grappier",
+    "tipo": "localidad",
+    "codigo": "124766",
+    "lat": -51.730034,
+    "lng": -72.504524,
+    "url": "",
+    "codigo_padre": "124"
+  },
+  {
+    "nombre": "Puerto Henry",
+    "tipo": "localidad",
+    "codigo": "124767",
+    "lat": -51.730034,
+    "lng": -72.504524,
+    "url": "",
+    "codigo_padre": "124"
+  },
+  {
+    "nombre": "Puerto Riofrío",
+    "tipo": "localidad",
+    "codigo": "124768",
+    "lat": -51.730034,
+    "lng": -72.504524,
+    "url": "",
+    "codigo_padre": "124"
+  },
+  {
+    "nombre": "Villa Cerro Castillo",
+    "tipo": "localidad",
+    "codigo": "124769",
+    "lat": -46.1208678,
+    "lng": -72.1535155,
+    "url": "",
+    "codigo_padre": "124"
+  },
+  {
+    "nombre": "Corral Quemado",
+    "tipo": "localidad",
+    "codigo": "131770",
+    "lat": -33.35,
+    "lng": -70.3667,
+    "url": "",
+    "codigo_padre": "131"
+  },
+  {
+    "nombre": "El Colorado",
+    "tipo": "localidad",
+    "codigo": "131771",
+    "lat": -33.3466991,
+    "lng": -70.29502099999999,
+    "url": "",
+    "codigo_padre": "131"
+  },
+  {
+    "nombre": "Farellones",
+    "tipo": "localidad",
+    "codigo": "131772",
+    "lat": -33.3,
+    "lng": -70.25,
+    "url": "",
+    "codigo_padre": "131"
+  },
+  {
+    "nombre": "La Ermita",
+    "tipo": "localidad",
+    "codigo": "131773",
+    "lat": -33.3835208,
+    "lng": -70.5733777,
+    "url": "",
+    "codigo_padre": "131"
+  },
+  {
+    "nombre": "La Parva",
+    "tipo": "localidad",
+    "codigo": "131774",
+    "lat": -33.4151715,
+    "lng": -70.6012208,
+    "url": "",
+    "codigo_padre": "131"
+  },
+  {
+    "nombre": "Valle Nevado",
+    "tipo": "localidad",
+    "codigo": "131775",
+    "lat": -33.3923826,
+    "lng": -70.514883,
+    "url": "",
+    "codigo_padre": "131"
+  },
+  {
+    "nombre": "Santiago",
+    "tipo": "localidad",
+    "codigo": "131776",
+    "lat": -33.4488897,
+    "lng": -70.6692655,
+    "url": "",
+    "codigo_padre": "131"
+  },
+  {
+    "nombre": "Baños Morales",
+    "tipo": "localidad",
+    "codigo": "132777",
+    "lat": -33.82,
+    "lng": -70.007778,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "El Melocotón",
+    "tipo": "localidad",
+    "codigo": "132778",
+    "lat": -33.6970468,
+    "lng": -70.3322812,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "El Toyo",
+    "tipo": "localidad",
+    "codigo": "132779",
+    "lat": -33.593163,
+    "lng": -70.4714837,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "El Volcán",
+    "tipo": "localidad",
+    "codigo": "132780",
+    "lat": -33.8167,
+    "lng": -70.16669999999999,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "La Obra",
+    "tipo": "localidad",
+    "codigo": "132781",
+    "lat": -33.5980656,
+    "lng": -70.4940937,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "Lagunillas",
+    "tipo": "localidad",
+    "codigo": "132782",
+    "lat": -33.6050348,
+    "lng": -70.2866801,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "Las Vertientes",
+    "tipo": "localidad",
+    "codigo": "132783",
+    "lat": -33.5886209,
+    "lng": -70.4693465,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "Los Maitenes",
+    "tipo": "localidad",
+    "codigo": "132784",
+    "lat": -33.533333,
+    "lng": -70.266667,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "Pirque",
+    "tipo": "localidad",
+    "codigo": "132785",
+    "lat": -33.6793441,
+    "lng": -70.58310689999999,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "San Gabriel",
+    "tipo": "localidad",
+    "codigo": "132786",
+    "lat": -33.7803468,
+    "lng": -70.2440937,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "San José de Maipo",
+    "tipo": "localidad",
+    "codigo": "132787",
+    "lat": -33.643169,
+    "lng": -70.345207,
+    "url": "",
+    "codigo_padre": "132"
+  },
+  {
+    "nombre": "Batuco",
+    "tipo": "localidad",
+    "codigo": "133788",
+    "lat": -33.2296937,
+    "lng": -70.8104688,
+    "url": "",
+    "codigo_padre": "133"
+  },
+  {
+    "nombre": "Caleu",
+    "tipo": "localidad",
+    "codigo": "133789",
+    "lat": -32.9978881,
+    "lng": -70.9773692,
+    "url": "",
+    "codigo_padre": "133"
+  },
+  {
+    "nombre": "Chicauma",
+    "tipo": "localidad",
+    "codigo": "133790",
+    "lat": -33.214692,
+    "lng": -70.912658,
+    "url": "",
+    "codigo_padre": "133"
+  },
+  {
+    "nombre": "Colina",
+    "tipo": "localidad",
+    "codigo": "133791",
+    "lat": -33.2044597,
+    "lng": -70.6758505,
+    "url": "",
+    "codigo_padre": "133"
+  },
+  {
+    "nombre": "Lampa",
+    "tipo": "localidad",
+    "codigo": "133792",
+    "lat": -33.2827093,
+    "lng": -70.879328,
+    "url": "",
+    "codigo_padre": "133"
+  },
+  {
+    "nombre": "Peldehue",
+    "tipo": "localidad",
+    "codigo": "133793",
+    "lat": -33.171283,
+    "lng": -70.631333,
+    "url": "",
+    "codigo_padre": "133"
+  },
+  {
+    "nombre": "Rungue",
+    "tipo": "localidad",
+    "codigo": "133794",
+    "lat": -33.0060687,
+    "lng": -70.8929124,
+    "url": "",
+    "codigo_padre": "133"
+  },
+  {
+    "nombre": "Buin",
+    "tipo": "localidad",
+    "codigo": "134795",
+    "lat": -33.7309374,
+    "lng": -70.7423218,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "San Bernardo",
+    "tipo": "localidad",
+    "codigo": "134796",
+    "lat": -33.5854485,
+    "lng": -70.69873609999999,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "Alto Jahuel",
+    "tipo": "localidad",
+    "codigo": "134797",
+    "lat": -33.7381424,
+    "lng": -70.6804178,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "Angostura de Paine",
+    "tipo": "localidad",
+    "codigo": "134798",
+    "lat": -33.9,
+    "lng": -70.7333,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "Calera de Tango",
+    "tipo": "localidad",
+    "codigo": "134799",
+    "lat": -33.6291031,
+    "lng": -70.7686968,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "Huelquén",
+    "tipo": "localidad",
+    "codigo": "134800",
+    "lat": -33.8238499,
+    "lng": -70.6446843,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "Linderos",
+    "tipo": "localidad",
+    "codigo": "134801",
+    "lat": -33.7626183,
+    "lng": -70.7361755,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "Maipo",
+    "tipo": "localidad",
+    "codigo": "134802",
+    "lat": -33.7289899,
+    "lng": -70.7778036,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "Paine",
+    "tipo": "localidad",
+    "codigo": "134803",
+    "lat": -33.8125656,
+    "lng": -70.73759679999999,
+    "url": "",
+    "codigo_padre": "134"
+  },
+  {
+    "nombre": "Melipilla",
+    "tipo": "localidad",
+    "codigo": "135804",
+    "lat": -33.6861588,
+    "lng": -71.2166838,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "Curacaví",
+    "tipo": "localidad",
+    "codigo": "135805",
+    "lat": -33.3977192,
+    "lng": -71.12752119999999,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "Longovilo",
+    "tipo": "localidad",
+    "codigo": "135806",
+    "lat": -33.9422278,
+    "lng": -71.4068405,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "Mallarauco",
+    "tipo": "localidad",
+    "codigo": "135807",
+    "lat": -33.6781518,
+    "lng": -71.1884305,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "Melipilla",
+    "tipo": "localidad",
+    "codigo": "135808",
+    "lat": -33.6861588,
+    "lng": -71.2166838,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "Pomaire",
+    "tipo": "localidad",
+    "codigo": "135809",
+    "lat": -33.6498691,
+    "lng": -71.1513932,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "Puangue",
+    "tipo": "localidad",
+    "codigo": "135810",
+    "lat": -33.6861588,
+    "lng": -71.2166838,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "San Pedro",
+    "tipo": "localidad",
+    "codigo": "135811",
+    "lat": -33.8950912,
+    "lng": -71.45637789999999,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "Villa Alhué",
+    "tipo": "localidad",
+    "codigo": "135812",
+    "lat": -34.0264691,
+    "lng": -71.1002881,
+    "url": "",
+    "codigo_padre": "135"
+  },
+  {
+    "nombre": "Talagante",
+    "tipo": "localidad",
+    "codigo": "136813",
+    "lat": -33.6637468,
+    "lng": -70.9273937,
+    "url": "",
+    "codigo_padre": "136"
+  },
+  {
+    "nombre": "El Monte",
+    "tipo": "localidad",
+    "codigo": "136814",
+    "lat": -33.6815281,
+    "lng": -70.9853968,
+    "url": "",
+    "codigo_padre": "136"
+  },
+  {
+    "nombre": "Isla de Maipo",
+    "tipo": "localidad",
+    "codigo": "136815",
+    "lat": -33.7464562,
+    "lng": -70.89999999999999,
+    "url": "",
+    "codigo_padre": "136"
+  },
+  {
+    "nombre": "Lonquén",
+    "tipo": "localidad",
+    "codigo": "136816",
+    "lat": -33.7155187,
+    "lng": -70.8548874,
+    "url": "",
+    "codigo_padre": "136"
+  },
+  {
+    "nombre": "Malloco",
+    "tipo": "localidad",
+    "codigo": "136817",
+    "lat": -33.6048874,
+    "lng": -70.86315619999999,
+    "url": "",
+    "codigo_padre": "136"
+  },
+  {
+    "nombre": "Peñaflor",
+    "tipo": "localidad",
+    "codigo": "136818",
+    "lat": -33.6060255,
+    "lng": -70.8781837,
+    "url": "",
+    "codigo_padre": "136"
+  },
+  {
+    "nombre": "Antilhue",
+    "tipo": "localidad",
+    "codigo": "141819",
+    "lat": -39.81070630000001,
+    "lng": -72.9546051,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Arique",
+    "tipo": "localidad",
+    "codigo": "141820",
+    "lat": -39.8113875,
+    "lng": -73.03643520000001,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Asque",
+    "tipo": "localidad",
+    "codigo": "141821",
+    "lat": -39.5638837,
+    "lng": -72.99068,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Cabo Blanco",
+    "tipo": "localidad",
+    "codigo": "141822",
+    "lat": -39.77751809999999,
+    "lng": -73.24162009999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Cachín",
+    "tipo": "localidad",
+    "codigo": "141823",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Calafquén",
+    "tipo": "localidad",
+    "codigo": "141824",
+    "lat": -39.5737522,
+    "lng": -72.24274299999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Caricuicui",
+    "tipo": "localidad",
+    "codigo": "141825",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Carirriñe",
+    "tipo": "localidad",
+    "codigo": "141826",
+    "lat": -39.783333,
+    "lng": -71.7,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Cayumapu",
+    "tipo": "localidad",
+    "codigo": "141827",
+    "lat": -39.7215623,
+    "lng": -73.1069823,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Cayumapu",
+    "tipo": "localidad",
+    "codigo": "141828",
+    "lat": -39.7215623,
+    "lng": -73.1069823,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Centinela",
+    "tipo": "localidad",
+    "codigo": "141829",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Chaihuín",
+    "tipo": "localidad",
+    "codigo": "141830",
+    "lat": -39.93794339999999,
+    "lng": -73.5803332,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Chanco",
+    "tipo": "localidad",
+    "codigo": "141831",
+    "lat": -39.9757385,
+    "lng": -72.79513,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Chiguao",
+    "tipo": "localidad",
+    "codigo": "141832",
+    "lat": -39.6959706,
+    "lng": -73.0816538,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Chonqui",
+    "tipo": "localidad",
+    "codigo": "141833",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Chorocamayo",
+    "tipo": "localidad",
+    "codigo": "141834",
+    "lat": -39.7699258,
+    "lng": -73.2292497,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Choshuenco",
+    "tipo": "localidad",
+    "codigo": "141835",
+    "lat": -39.8340332,
+    "lng": -72.082545,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Chunimpa",
+    "tipo": "localidad",
+    "codigo": "141836",
+    "lat": -39.6141263,
+    "lng": -73.155794,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Coihueco",
+    "tipo": "localidad",
+    "codigo": "141837",
+    "lat": -39.6434424,
+    "lng": -72.20673359999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Colegual",
+    "tipo": "localidad",
+    "codigo": "141838",
+    "lat": -39.7250495,
+    "lng": -72.6540466,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Coñaripe",
+    "tipo": "localidad",
+    "codigo": "141839",
+    "lat": -39.5607737,
+    "lng": -72.0089417,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Corcovado",
+    "tipo": "localidad",
+    "codigo": "141840",
+    "lat": -39.6523458,
+    "lng": -73.2339485,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Corral",
+    "tipo": "localidad",
+    "codigo": "141841",
+    "lat": -39.8885744,
+    "lng": -73.4315987,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Correltué",
+    "tipo": "localidad",
+    "codigo": "141842",
+    "lat": -39.5776306,
+    "lng": -72.50534429999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Coz Coz",
+    "tipo": "localidad",
+    "codigo": "141843",
+    "lat": -39.6223519,
+    "lng": -72.2911337,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Cruces",
+    "tipo": "localidad",
+    "codigo": "141844",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Cudileufu",
+    "tipo": "localidad",
+    "codigo": "141845",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Cuncún",
+    "tipo": "localidad",
+    "codigo": "141846",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Curiñanco",
+    "tipo": "localidad",
+    "codigo": "141847",
+    "lat": -39.7256348,
+    "lng": -73.38723,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Cuyinhue",
+    "tipo": "localidad",
+    "codigo": "141848",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Dollinco",
+    "tipo": "localidad",
+    "codigo": "141849",
+    "lat": -39.7120405,
+    "lng": -72.50793569999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "El Molino",
+    "tipo": "localidad",
+    "codigo": "141850",
+    "lat": -39.7759355,
+    "lng": -73.27284999999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "El Salto",
+    "tipo": "localidad",
+    "codigo": "141851",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "El Tesorito",
+    "tipo": "localidad",
+    "codigo": "141852",
+    "lat": -39.8152222,
+    "lng": -73.2607993,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "El Vergel",
+    "tipo": "localidad",
+    "codigo": "141853",
+    "lat": -39.8423307,
+    "lng": -72.4623469,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Enco",
+    "tipo": "localidad",
+    "codigo": "141854",
+    "lat": -39.9110427,
+    "lng": -72.1481362,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Flor del Lago",
+    "tipo": "localidad",
+    "codigo": "141855",
+    "lat": -39.2863747,
+    "lng": -72.2286106,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Folilco",
+    "tipo": "localidad",
+    "codigo": "141856",
+    "lat": -39.8667,
+    "lng": -72.6833,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Folilco",
+    "tipo": "localidad",
+    "codigo": "141857",
+    "lat": -39.8667,
+    "lng": -72.6833,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Huellahue",
+    "tipo": "localidad",
+    "codigo": "141858",
+    "lat": -39.6034414,
+    "lng": -72.3657339,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Huerquehue",
+    "tipo": "localidad",
+    "codigo": "141859",
+    "lat": -39.1685032,
+    "lng": -71.72547089999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Huidif",
+    "tipo": "localidad",
+    "codigo": "141860",
+    "lat": -39.8446684,
+    "lng": -73.2398391,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Huillicoihue",
+    "tipo": "localidad",
+    "codigo": "141861",
+    "lat": -39.6842287,
+    "lng": -72.7925368,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Huillinco",
+    "tipo": "localidad",
+    "codigo": "141862",
+    "lat": -42.6710191,
+    "lng": -73.8912667,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Huillines",
+    "tipo": "localidad",
+    "codigo": "141863",
+    "lat": -39.7804503,
+    "lng": -72.5296366,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Huitag",
+    "tipo": "localidad",
+    "codigo": "141864",
+    "lat": -39.533019,
+    "lng": -72.307743,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Huite",
+    "tipo": "localidad",
+    "codigo": "141865",
+    "lat": -39.9834394,
+    "lng": -72.65682939999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Illahue",
+    "tipo": "localidad",
+    "codigo": "141866",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Inipulli",
+    "tipo": "localidad",
+    "codigo": "141867",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Iñaque",
+    "tipo": "localidad",
+    "codigo": "141868",
+    "lat": -39.6544312,
+    "lng": -72.6638251,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Isla Teja",
+    "tipo": "localidad",
+    "codigo": "141869",
+    "lat": -39.8036111,
+    "lng": -73.25944439999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Junco",
+    "tipo": "localidad",
+    "codigo": "141870",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "La Esperanza",
+    "tipo": "localidad",
+    "codigo": "141871",
+    "lat": -34.3122671,
+    "lng": -71.5359804,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "La Palma",
+    "tipo": "localidad",
+    "codigo": "141872",
+    "lat": -32.88046,
+    "lng": -71.2070978,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "La Pellinada",
+    "tipo": "localidad",
+    "codigo": "141873",
+    "lat": -39.9834401,
+    "lng": -72.5480489,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Lanco",
+    "tipo": "localidad",
+    "codigo": "141874",
+    "lat": -39.4510195,
+    "lng": -72.77961669999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Las ánimas",
+    "tipo": "localidad",
+    "codigo": "141875",
+    "lat": -39.80842579999999,
+    "lng": -73.22304009999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Las Huellas",
+    "tipo": "localidad",
+    "codigo": "141876",
+    "lat": -39.89183999999999,
+    "lng": -72.562938,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Lipingue",
+    "tipo": "localidad",
+    "codigo": "141877",
+    "lat": -39.9232285,
+    "lng": -72.8011394,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Liquiñe",
+    "tipo": "localidad",
+    "codigo": "141878",
+    "lat": -39.74513460000001,
+    "lng": -71.857723,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Llancahue",
+    "tipo": "localidad",
+    "codigo": "141879",
+    "lat": -39.8588511,
+    "lng": -73.1369315,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Llofe",
+    "tipo": "localidad",
+    "codigo": "141880",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Llongahue",
+    "tipo": "localidad",
+    "codigo": "141881",
+    "lat": -39.5816425,
+    "lng": -72.1957329,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Llonquén",
+    "tipo": "localidad",
+    "codigo": "141882",
+    "lat": -39.6703544,
+    "lng": -71.90602240000001,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Los Bajos",
+    "tipo": "localidad",
+    "codigo": "141883",
+    "lat": -39.7607852,
+    "lng": -73.0838339,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Los Lagos",
+    "tipo": "localidad",
+    "codigo": "141884",
+    "lat": -39.8624984,
+    "lng": -72.81855879999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Los Maitenes",
+    "tipo": "localidad",
+    "codigo": "141885",
+    "lat": -39.7887059,
+    "lng": -73.21547650000001,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Los Molinos",
+    "tipo": "localidad",
+    "codigo": "141886",
+    "lat": -39.8450661,
+    "lng": -73.3944319,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Mae",
+    "tipo": "localidad",
+    "codigo": "141887",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Máfil",
+    "tipo": "localidad",
+    "codigo": "141888",
+    "lat": -39.6648976,
+    "lng": -72.95715729999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Malchehue",
+    "tipo": "localidad",
+    "codigo": "141889",
+    "lat": -39.6927314,
+    "lng": -72.3653349,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Malihue",
+    "tipo": "localidad",
+    "codigo": "141890",
+    "lat": -39.7373395,
+    "lng": -72.6539367,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Mehuín",
+    "tipo": "localidad",
+    "codigo": "141891",
+    "lat": -39.4284261,
+    "lng": -73.2118359999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Melefquén",
+    "tipo": "localidad",
+    "codigo": "141892",
+    "lat": -39.578341,
+    "lng": -72.442034,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Millahuillín",
+    "tipo": "localidad",
+    "codigo": "141893",
+    "lat": -39.6373024,
+    "lng": -72.910618,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Nanihue",
+    "tipo": "localidad",
+    "codigo": "141894",
+    "lat": -39.6180697,
+    "lng": -73.0700203,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Neltume",
+    "tipo": "localidad",
+    "codigo": "141895",
+    "lat": -39.8,
+    "lng": -71.95,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Niebla",
+    "tipo": "localidad",
+    "codigo": "141896",
+    "lat": -39.8704347,
+    "lng": -73.39524159999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Ñancul",
+    "tipo": "localidad",
+    "codigo": "141897",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Paico",
+    "tipo": "localidad",
+    "codigo": "141898",
+    "lat": -39.5888268,
+    "lng": -73.0977472,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Paillaco",
+    "tipo": "localidad",
+    "codigo": "141899",
+    "lat": -40.0684279,
+    "lng": -72.8748414,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Panguilelfún",
+    "tipo": "localidad",
+    "codigo": "141900",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Panguipulli",
+    "tipo": "localidad",
+    "codigo": "141901",
+    "lat": -39.6415998,
+    "lng": -72.3370089,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pehuel",
+    "tipo": "localidad",
+    "codigo": "141902",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pelchuquín",
+    "tipo": "localidad",
+    "codigo": "141903",
+    "lat": -39.6205469,
+    "lng": -73.0755374,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pellaifa",
+    "tipo": "localidad",
+    "codigo": "141904",
+    "lat": -39.5963088,
+    "lng": -71.9549533,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pichipichoy",
+    "tipo": "localidad",
+    "codigo": "141905",
+    "lat": -39.6504516,
+    "lng": -73.0814493,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pichoy",
+    "tipo": "localidad",
+    "codigo": "141906",
+    "lat": -39.7083796,
+    "lng": -73.1291423,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pilinhue",
+    "tipo": "localidad",
+    "codigo": "141907",
+    "lat": -39.583333,
+    "lng": -72.14999999999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pilolcura",
+    "tipo": "localidad",
+    "codigo": "141908",
+    "lat": -39.6691118,
+    "lng": -73.34678269999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pirehueico",
+    "tipo": "localidad",
+    "codigo": "141909",
+    "lat": -39.9295707,
+    "lng": -71.794868,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pishuinco",
+    "tipo": "localidad",
+    "codigo": "141910",
+    "lat": -39.80804320000001,
+    "lng": -73.0622168,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pitrén",
+    "tipo": "localidad",
+    "codigo": "141911",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Porvenir",
+    "tipo": "localidad",
+    "codigo": "141912",
+    "lat": -39.8411658,
+    "lng": -73.2024512,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Puante",
+    "tipo": "localidad",
+    "codigo": "141913",
+    "lat": -39.8005702,
+    "lng": -73.25207929999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pucará",
+    "tipo": "localidad",
+    "codigo": "141914",
+    "lat": -39.91973,
+    "lng": -72.56492829999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pucono",
+    "tipo": "localidad",
+    "codigo": "141915",
+    "lat": -39.75143970000001,
+    "lng": -72.62524669999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pucura",
+    "tipo": "localidad",
+    "codigo": "141916",
+    "lat": -39.516667,
+    "lng": -72.05,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Puerto Claro",
+    "tipo": "localidad",
+    "codigo": "141917",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Puerto Enco",
+    "tipo": "localidad",
+    "codigo": "141918",
+    "lat": -39.9110427,
+    "lng": -72.1481362,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Puerto Fuy",
+    "tipo": "localidad",
+    "codigo": "141919",
+    "lat": -39.87285440000001,
+    "lng": -71.8901245,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Puerto Pirehueico",
+    "tipo": "localidad",
+    "codigo": "141920",
+    "lat": -39.871956,
+    "lng": -71.888548,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pullinque",
+    "tipo": "localidad",
+    "codigo": "141921",
+    "lat": -39.8392269,
+    "lng": -73.2161355,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Punahue",
+    "tipo": "localidad",
+    "codigo": "141922",
+    "lat": -39.8255335,
+    "lng": -72.0338247,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Punucapa",
+    "tipo": "localidad",
+    "codigo": "141923",
+    "lat": -39.7406331,
+    "lng": -73.2689647,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Puñaco",
+    "tipo": "localidad",
+    "codigo": "141924",
+    "lat": -39.8488187,
+    "lng": -72.7350718,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Pupunahue",
+    "tipo": "localidad",
+    "codigo": "141925",
+    "lat": -39.8020279,
+    "lng": -72.9037486,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Purey",
+    "tipo": "localidad",
+    "codigo": "141926",
+    "lat": -39.81724810000001,
+    "lng": -72.8669486,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Putreguel",
+    "tipo": "localidad",
+    "codigo": "141927",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Puyehue",
+    "tipo": "localidad",
+    "codigo": "141928",
+    "lat": -40.6607937,
+    "lng": -72.61315619999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Quilme",
+    "tipo": "localidad",
+    "codigo": "141929",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Quinchilca",
+    "tipo": "localidad",
+    "codigo": "141930",
+    "lat": -39.888654,
+    "lng": -72.665356,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Rañintuleufú",
+    "tipo": "localidad",
+    "codigo": "141931",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Rebellín",
+    "tipo": "localidad",
+    "codigo": "141932",
+    "lat": -39.743024,
+    "lng": -73.197972,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Reyehueico",
+    "tipo": "localidad",
+    "codigo": "141933",
+    "lat": -39.6990444,
+    "lng": -71.8933426,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Riñihue",
+    "tipo": "localidad",
+    "codigo": "141934",
+    "lat": -39.8088193,
+    "lng": -72.36663,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Runca",
+    "tipo": "localidad",
+    "codigo": "141935",
+    "lat": -39.8256722,
+    "lng": -73.2409603,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "San Javier",
+    "tipo": "localidad",
+    "codigo": "141936",
+    "lat": -39.7726373,
+    "lng": -72.9900287,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Santa Carla",
+    "tipo": "localidad",
+    "codigo": "141937",
+    "lat": -39.6880298,
+    "lng": -72.612436,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Santa Olga",
+    "tipo": "localidad",
+    "codigo": "141938",
+    "lat": -37.4027884,
+    "lng": -72.0822352,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Tambillo",
+    "tipo": "localidad",
+    "codigo": "141939",
+    "lat": -39.6975679,
+    "lng": -73.2647377,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Tomén",
+    "tipo": "localidad",
+    "codigo": "141940",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Torobayo",
+    "tipo": "localidad",
+    "codigo": "141941",
+    "lat": -39.83396279999999,
+    "lng": -73.26827,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Trafún",
+    "tipo": "localidad",
+    "codigo": "141942",
+    "lat": -40.0030035,
+    "lng": -72.3961954,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Trafún Chico",
+    "tipo": "localidad",
+    "codigo": "141943",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Trafún Grande",
+    "tipo": "localidad",
+    "codigo": "141944",
+    "lat": -40.4333374,
+    "lng": -72.9155356,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Traitraico",
+    "tipo": "localidad",
+    "codigo": "141945",
+    "lat": -39.0321187,
+    "lng": -72.4933406,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Tralahuapi",
+    "tipo": "localidad",
+    "codigo": "141946",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Tralcán",
+    "tipo": "localidad",
+    "codigo": "141947",
+    "lat": -39.8039035,
+    "lng": -72.42594319999999,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Tralcao",
+    "tipo": "localidad",
+    "codigo": "141948",
+    "lat": -39.8093629,
+    "lng": -73.2175073,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Tres Bocas",
+    "tipo": "localidad",
+    "codigo": "141949",
+    "lat": -39.8438275,
+    "lng": -73.2060183,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Valdivia",
+    "tipo": "localidad",
+    "codigo": "141950",
+    "lat": -39.8195857,
+    "lng": -73.2452103,
+    "url": "",
+    "codigo_padre": "141"
+  },
+  {
+    "nombre": "Río Bueno",
+    "tipo": "localidad",
+    "codigo": "142951",
+    "lat": -40.3313422,
+    "lng": -72.9485366,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Caleta Hueicolla",
+    "tipo": "localidad",
+    "codigo": "142952",
+    "lat": -40.1609989,
+    "lng": -73.6632769,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Catamutún",
+    "tipo": "localidad",
+    "codigo": "142953",
+    "lat": -40.1527456,
+    "lng": -73.1291778,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Chaichahuén",
+    "tipo": "localidad",
+    "codigo": "142954",
+    "lat": -40.4190213,
+    "lng": -72.5204827,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Cudico",
+    "tipo": "localidad",
+    "codigo": "142956",
+    "lat": -39.70395269999999,
+    "lng": -72.9438151,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Futrono",
+    "tipo": "localidad",
+    "codigo": "142958",
+    "lat": -40.12454109999999,
+    "lng": -72.38084959999999,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Hueicolla",
+    "tipo": "localidad",
+    "codigo": "142959",
+    "lat": -40.1609989,
+    "lng": -73.6632769,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Ignao",
+    "tipo": "localidad",
+    "codigo": "142960",
+    "lat": -40.3269736,
+    "lng": -72.5499426,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "La Unión",
+    "tipo": "localidad",
+    "codigo": "142961",
+    "lat": -40.2952749,
+    "lng": -73.07932799999999,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Lago Ranco",
+    "tipo": "localidad",
+    "codigo": "142962",
+    "lat": -40.3211603,
+    "lng": -72.48221230000001,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Llancacura",
+    "tipo": "localidad",
+    "codigo": "142963",
+    "lat": -40.3148119,
+    "lng": -73.40738080000001,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Llifén",
+    "tipo": "localidad",
+    "codigo": "142964",
+    "lat": -40.2095418,
+    "lng": -72.2650369,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Mashue",
+    "tipo": "localidad",
+    "codigo": "142965",
+    "lat": -40.3116885,
+    "lng": -73.3354904,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Puerto Ulloa",
+    "tipo": "localidad",
+    "codigo": "142967",
+    "lat": -51.7275003,
+    "lng": -72.4993397,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Riñinahue",
+    "tipo": "localidad",
+    "codigo": "142968",
+    "lat": -40.320942,
+    "lng": -72.2274511,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Río Bueno",
+    "tipo": "localidad",
+    "codigo": "142969",
+    "lat": -40.3313422,
+    "lng": -72.9485366,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Trumao",
+    "tipo": "localidad",
+    "codigo": "142970",
+    "lat": -40.3619259,
+    "lng": -73.1636559,
+    "url": "",
+    "codigo_padre": "142"
+  },
+  {
+    "nombre": "Caleta Camarones",
+    "tipo": "localidad",
+    "codigo": "151971",
+    "lat": -19.1964048,
+    "lng": -70.2695588,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Caleta Vítor",
+    "tipo": "localidad",
+    "codigo": "151972",
+    "lat": -18.4735518,
+    "lng": -70.2914749,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Camarones",
+    "tipo": "localidad",
+    "codigo": "151973",
+    "lat": -19.0111932,
+    "lng": -69.8654656,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Chitita",
+    "tipo": "localidad",
+    "codigo": "151974",
+    "lat": -18.4908303,
+    "lng": -70.3024275,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Codpa",
+    "tipo": "localidad",
+    "codigo": "151975",
+    "lat": -18.8328004,
+    "lng": -69.7439294,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Cuya",
+    "tipo": "localidad",
+    "codigo": "151976",
+    "lat": -18.4740998,
+    "lng": -70.2918624,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Esquiña",
+    "tipo": "localidad",
+    "codigo": "151977",
+    "lat": -18.491869,
+    "lng": -70.3033754,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Guañacagua",
+    "tipo": "localidad",
+    "codigo": "151978",
+    "lat": -18.8102857,
+    "lng": -69.7103248,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Las Maitas",
+    "tipo": "localidad",
+    "codigo": "151979",
+    "lat": -18.4808323,
+    "lng": -70.2967743,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Molinos",
+    "tipo": "localidad",
+    "codigo": "151980",
+    "lat": -18.4801971,
+    "lng": -70.2984453,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Poconchile",
+    "tipo": "localidad",
+    "codigo": "151981",
+    "lat": -18.45,
+    "lng": -70.0667,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "San Miguel de Azapa",
+    "tipo": "localidad",
+    "codigo": "151982",
+    "lat": -18.5185778,
+    "lng": -70.17488089999999,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Sora",
+    "tipo": "localidad",
+    "codigo": "151983",
+    "lat": -18.3579926,
+    "lng": -69.8855133,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Villa Frontera",
+    "tipo": "localidad",
+    "codigo": "151984",
+    "lat": -18.3970801,
+    "lng": -70.3148795,
+    "url": "",
+    "codigo_padre": "151"
+  },
+  {
+    "nombre": "Putre",
+    "tipo": "localidad",
+    "codigo": "152985",
+    "lat": -18.1969907,
+    "lng": -69.55972729999999,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Ancuta",
+    "tipo": "localidad",
+    "codigo": "152986",
+    "lat": -18.45,
+    "lng": -69.2,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Belén",
+    "tipo": "localidad",
+    "codigo": "152987",
+    "lat": -18.489794,
+    "lng": -69.5266907,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Caquena",
+    "tipo": "localidad",
+    "codigo": "152988",
+    "lat": -18.0553471,
+    "lng": -69.203518,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Chapiquiña",
+    "tipo": "localidad",
+    "codigo": "152989",
+    "lat": -18.3818013,
+    "lng": -69.54750229999999,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Chucuyo",
+    "tipo": "localidad",
+    "codigo": "152990",
+    "lat": -18.2181986,
+    "lng": -69.3219797,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Cosapilla",
+    "tipo": "localidad",
+    "codigo": "152991",
+    "lat": -17.7663486,
+    "lng": -69.4124836,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Guallatire",
+    "tipo": "localidad",
+    "codigo": "152992",
+    "lat": -18.4847986,
+    "lng": -69.15371189999999,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Pachama",
+    "tipo": "localidad",
+    "codigo": "152993",
+    "lat": -18.4284294,
+    "lng": -69.5262623,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Parinacota",
+    "tipo": "localidad",
+    "codigo": "152994",
+    "lat": -18.2,
+    "lng": -69.2667,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Saxamar",
+    "tipo": "localidad",
+    "codigo": "152995",
+    "lat": -18.5671995,
+    "lng": -69.4887949,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Socoroma",
+    "tipo": "localidad",
+    "codigo": "152996",
+    "lat": -18.2789733,
+    "lng": -69.59122339999999,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Tignamar",
+    "tipo": "localidad",
+    "codigo": "152997",
+    "lat": -18.5833,
+    "lng": -69.4935059,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Visviri",
+    "tipo": "localidad",
+    "codigo": "152998",
+    "lat": -17.5952464,
+    "lng": -69.48243169999999,
+    "url": "",
+    "codigo_padre": "152"
+  },
+  {
+    "nombre": "Almarza",
+    "tipo": "localidad",
+    "codigo": "161999",
+    "lat": -33.427971,
+    "lng": -70.67744789999999,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Bulnes",
+    "tipo": "localidad",
+    "codigo": "1611000",
+    "lat": -36.866667,
+    "lng": -72.28333300000001,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Campanar",
+    "tipo": "localidad",
+    "codigo": "1611001",
+    "lat": -36.866667,
+    "lng": -72.28333300000001,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Cerro Negro",
+    "tipo": "localidad",
+    "codigo": "1611002",
+    "lat": -33.6252778,
+    "lng": -70.6755556,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Chillán",
+    "tipo": "localidad",
+    "codigo": "1611003",
+    "lat": -36.6062618,
+    "lng": -72.10233509999999,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Chillán Viejo",
+    "tipo": "localidad",
+    "codigo": "1611004",
+    "lat": -36.6291031,
+    "lng": -72.1397968,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Cholguán",
+    "tipo": "localidad",
+    "codigo": "1611005",
+    "lat": -37.1568441,
+    "lng": -72.06740789999999,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Conurbación Chillán",
+    "tipo": "localidad",
+    "codigo": "1611006",
+    "lat": -36.6062618,
+    "lng": -72.10233509999999,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "El Carmen",
+    "tipo": "localidad",
+    "codigo": "1611007",
+    "lat": -36.9,
+    "lng": -72.0333 ,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "El Emboque",
+    "tipo": "localidad",
+    "codigo": "1611008",
+    "lat": -35.75,
+    "lng": -71.75,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "El Guape",
+    "tipo": "localidad",
+    "codigo": "1611009",
+    "lat": -36.6058329,
+    "lng": -72.2779037,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "General Cruz",
+    "tipo": "localidad",
+    "codigo": "1611010",
+    "lat": -36.9373321,
+    "lng": -72.4014974,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Las Mariposas",
+    "tipo": "localidad",
+    "codigo": "1611011",
+    "lat": -36.7272589,
+    "lng": -72.2196233,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Los Lleuques",
+    "tipo": "localidad",
+    "codigo": "1611012",
+    "lat": -36.8547482,
+    "lng": -71.6442864,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Nebuco",
+    "tipo": "localidad",
+    "codigo": "1611013",
+    "lat": -36.6451729,
+    "lng": -72.2116743,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Pinto",
+    "tipo": "localidad",
+    "codigo": "1611014",
+    "lat": -36.7,
+    "lng": -71.8940937,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Pueblo Seco",
+    "tipo": "localidad",
+    "codigo": "1611015",
+    "lat": -36.8835056,
+    "lng": -72.0948311,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Quillón",
+    "tipo": "localidad",
+    "codigo": "1611016",
+    "lat": -36.8152775,
+    "lng": -72.4968189,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Quilmo",
+    "tipo": "localidad",
+    "codigo": "1611017",
+    "lat": -36.6763436,
+    "lng": -72.1465444,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Quinchamalí",
+    "tipo": "localidad",
+    "codigo": "1611018",
+    "lat": -36.866667,
+    "lng": -72.28333300000001,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Quinquegua",
+    "tipo": "localidad",
+    "codigo": "1611019",
+    "lat": -36.35,
+    "lng": -72,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Recinto",
+    "tipo": "localidad",
+    "codigo": "1611020",
+    "lat": -36.8,
+    "lng": -71.7333,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Rucapequén",
+    "tipo": "localidad",
+    "codigo": "1611021",
+    "lat": -36.6749687,
+    "lng": -72.2856625,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "San Ignacio",
+    "tipo": "localidad",
+    "codigo": "1611022",
+    "lat": -36.866667,
+    "lng": -72.28333300000001,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Santa Clara",
+    "tipo": "localidad",
+    "codigo": "1611023",
+    "lat": -36.8278669,
+    "lng": -72.334831,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Termas de Chillán",
+    "tipo": "localidad",
+    "codigo": "1611024",
+    "lat": -36.6192162,
+    "lng": -72.0783019,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Tres Esquinas",
+    "tipo": "localidad",
+    "codigo": "1611025",
+    "lat": -36.7900515,
+    "lng": -72.20755960000001,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Yungay",
+    "tipo": "localidad",
+    "codigo": "1611026",
+    "lat": -37.1220156,
+    "lng": -72.0131562,
+    "url": "",
+    "codigo_padre": "161"
+  },
+  {
+    "nombre": "Buchupureo",
+    "tipo": "localidad",
+    "codigo": "1621027",
+    "lat": -36.07239,
+    "lng": -72.7788511,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Cobquecura",
+    "tipo": "localidad",
+    "codigo": "1621028",
+    "lat": -36.1386156,
+    "lng": -72.7945218,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Coelemu",
+    "tipo": "localidad",
+    "codigo": "1621029",
+    "lat": -36.4983941,
+    "lng": -72.7570024,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Guarilihue Bajo",
+    "tipo": "localidad",
+    "codigo": "1621030",
+    "lat": -36.517353,
+    "lng": -72.7090218,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Ninhue",
+    "tipo": "localidad",
+    "codigo": "1621031",
+    "lat": -36.4,
+    "lng": -72.39999999999999,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Ñipas",
+    "tipo": "localidad",
+    "codigo": "1621032",
+    "lat": -36.7811573,
+    "lng": -72.4813118,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Perales",
+    "tipo": "localidad",
+    "codigo": "1621033",
+    "lat": -36.4084394,
+    "lng": -72.8594045,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Portezuelo",
+    "tipo": "localidad",
+    "codigo": "1621034",
+    "lat": -36.5267723,
+    "lng": -72.4282133,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Ranguelmo",
+    "tipo": "localidad",
+    "codigo": "1621035",
+    "lat": -36.7639335,
+    "lng": -72.4491456,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Ránquil",
+    "tipo": "localidad",
+    "codigo": "1621036",
+    "lat": -36.65256600000001,
+    "lng": -72.5972962,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "Vegas de Itata",
+    "tipo": "localidad",
+    "codigo": "1621037",
+    "lat": -36.4000695,
+    "lng": -72.8492344,
+    "url": "",
+    "codigo_padre": "162"
+  },
+  {
+    "nombre": "San Carlos",
+    "tipo": "localidad",
+    "codigo": "1631038",
+    "lat": -36.42615,
+    "lng": -71.97083429999999,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Agua Buena",
+    "tipo": "localidad",
+    "codigo": "1631039",
+    "lat": -36.8141431,
+    "lng": -72.2362954,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Buli",
+    "tipo": "localidad",
+    "codigo": "1631040",
+    "lat": -36.35,
+    "lng": -71.9333,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Bustamante",
+    "tipo": "localidad",
+    "codigo": "1631041",
+    "lat": -36.59275,
+    "lng": -71.76492809999999,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Cachapoal",
+    "tipo": "localidad",
+    "codigo": "1631042",
+    "lat": -36.4535437,
+    "lng": -71.73743429999999,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Coihueco",
+    "tipo": "localidad",
+    "codigo": "1631043",
+    "lat": -36.658296,
+    "lng": -71.6198686,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Coleal",
+    "tipo": "localidad",
+    "codigo": "1631044",
+    "lat": -36.7,
+    "lng": -71.7833,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Culenar",
+    "tipo": "localidad",
+    "codigo": "1631045",
+    "lat": -36.5734218,
+    "lng": -71.8917312,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Flor de Quihua",
+    "tipo": "localidad",
+    "codigo": "1631046",
+    "lat": -35.675147,
+    "lng": -71.542969,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "La Quinta",
+    "tipo": "localidad",
+    "codigo": "1631047",
+    "lat": -35.675147,
+    "lng": -71.542969,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "La Viñita",
+    "tipo": "localidad",
+    "codigo": "1631048",
+    "lat": -36.4368437,
+    "lng": -72.6279843,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Minas del Prado",
+    "tipo": "localidad",
+    "codigo": "1631049",
+    "lat": -35.675147,
+    "lng": -71.542969,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Nahueltoro",
+    "tipo": "localidad",
+    "codigo": "1631050",
+    "lat": -36.4874343,
+    "lng": -71.75429679999999,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Ñiquén",
+    "tipo": "localidad",
+    "codigo": "1631051",
+    "lat": -36.256434,
+    "lng": -72.09110969999999,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Paso Ancho",
+    "tipo": "localidad",
+    "codigo": "1631052",
+    "lat": -35.675147,
+    "lng": -71.542969,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Población 11 de Septiembre",
+    "tipo": "localidad",
+    "codigo": "1631053",
+    "lat": -35.675147,
+    "lng": -71.542969,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "San Fabián de Alico",
+    "tipo": "localidad",
+    "codigo": "1631054",
+    "lat": -36.55,
+    "lng": -71.55,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "San Gabriel",
+    "tipo": "localidad",
+    "codigo": "1631055",
+    "lat": -11.9897185,
+    "lng": -77.0010266,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "San Gregorio de Ñiquén",
+    "tipo": "localidad",
+    "codigo": "1631056",
+    "lat": -36.2832999,
+    "lng": -71.8167,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "San Nicolás",
+    "tipo": "localidad",
+    "codigo": "1631057",
+    "lat": -36.5,
+    "lng": -72.2167,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Talquipén",
+    "tipo": "localidad",
+    "codigo": "1631058",
+    "lat": -36.6017718,
+    "lng": -71.9131562,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Tanilvoro",
+    "tipo": "localidad",
+    "codigo": "1631059",
+    "lat": -36.7,
+    "lng": -71.85,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Tres Esquinas de Cachapoal",
+    "tipo": "localidad",
+    "codigo": "1631060",
+    "lat": -36.45,
+    "lng": -71.7833,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Tres Esquinas de Cato",
+    "tipo": "localidad",
+    "codigo": "1631061",
+    "lat": -36.7900515,
+    "lng": -72.20755960000001,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Villa El Copihue",
+    "tipo": "localidad",
+    "codigo": "1631062",
+    "lat": -47.1764929,
+    "lng": -72.6535444,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Virgüín",
+    "tipo": "localidad",
+    "codigo": "1631063",
+    "lat": -35.675147,
+    "lng": -71.542969,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "nombre": "Zemita",
+    "tipo": "localidad",
+    "codigo": "1631064",
+    "lat": -35.675147,
+    "lng": -71.542969,
+    "url": "",
+    "codigo_padre": "163"
+  },
+  {
+    "codigo": "082517",
+    "nombre": "Ramadillas",
+    "codigo_padre": "082",
+    "lat": -37.30173680000001,
+    "lng": -73.25940469999999,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "1611027",
+    "nombre": "Pemuco",
+    "codigo_padre": "161",
+    "lat": -36.9667,
+    "lng": -72.1,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "083541",
+    "nombre": "San Rosendo",
+    "codigo_padre": "083",
+    "lat": -37.2620301,
+    "lng": -72.72311189999999,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "081500",
+    "nombre": "Hualpén",
+    "codigo_padre": "081",
+    "lat": -36.7866757,
+    "lng": -73.1099531,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "081501",
+    "nombre": "Lomas Colorada",
+    "codigo_padre": "081",
+    "lat": -36.8490277,
+    "lng": -73.1386198,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "081501",
+    "nombre": "Lomas Coloradas",
+    "codigo_padre": "081",
+    "lat": -36.8490277,
+    "lng": -73.1386198,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "081502",
+    "nombre": "San Pedro de la Paz",
+    "codigo_padre": "081",
+    "lat": -36.8305354,
+    "lng": -73.1167368,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "073454",
+    "nombre": "Los Queñes",
+    "codigo_padre": "073",
+    "lat": -35.0005607,
+    "lng": -70.8159771,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "073455",
+    "nombre": "Sarmiento",
+    "codigo_padre": "073",
+    "lat": -34.9359392,
+    "lng": -71.198684,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "1621038",
+    "nombre": "Quirihue",
+    "codigo_padre": "162",
+    "lat": -36.2832999,
+    "lng": -72.5333,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "061365",
+    "nombre": "La Punta",
+    "codigo_padre": "061",
+    "lat": -34,
+    "lng": -70.64999999999999,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "061366",
+    "nombre": "Olivar",
+    "codigo_padre": "061",
+    "lat": -34.233,
+    "lng": -70.883,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "061367",
+    "nombre": "San Francisco de Mostazal",
+    "codigo_padre": "061",
+    "lat": -33.9791656,
+    "lng": -70.7119749,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "062385",
+    "nombre": "La Boca",
+    "codigo_padre": "062",
+    "lat": -33.9383253,
+    "lng": -71.8492188,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "062385",
+    "nombre": "Boca de Rapel",
+    "codigo_padre": "062",
+    "lat": -33.9383253,
+    "lng": -71.8492188,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "063409",
+    "nombre": "La Población",
+    "codigo_padre": "063",
+    "lat": -34.4505671,
+    "lng": -71.5478015,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "063409",
+    "nombre": "Población",
+    "codigo_padre": "063",
+    "lat": -34.4505671,
+    "lng": -71.5478015,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "063410",
+    "nombre": "Puente Negro",
+    "codigo_padre": "063",
+    "lat": -34.686231,
+    "lng": -70.8732103,
+    "tipo": "localidad",
+    "url": ""
+  },
+  {
+    "codigo": "074474",
+    "nombre": "San Javier",
+    "codigo_padre": "074",
+    "lat": -35.5930962,
+    "lng": -71.73250209999999,
+    "tipo": "localidad",
+    "url": ""
+  }
+]

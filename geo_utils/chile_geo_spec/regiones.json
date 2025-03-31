@@ -1,0 +1,146 @@
+[
+    {
+    "codigo": "06",
+    "tipo": "region",
+    "nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "lat": -34.4294,
+    "lng": -71.0393,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "07",
+    "tipo": "region",
+    "nombre": "Del Maule",
+    "lat": -35.5892,
+    "lng": -71.5007,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "08",
+    "tipo": "region",
+    "nombre": "Del Biobío",
+    "lat": -37.2442,
+    "lng": -72.4661,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "15",
+    "tipo": "region",
+    "nombre": "Arica y Parinacota",
+    "lat": -18.5075,
+    "lng": -69.6451,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "01",
+    "tipo": "region",
+    "nombre": "Tarapacá",
+    "lat": -20.164,
+    "lng": -69.5541,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "02",
+    "tipo": "region",
+    "nombre": "Antofagasta",
+    "lat": -23.7503,
+    "lng": -69.6,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "03",
+    "tipo": "region",
+    "nombre": "Atacama",
+    "lat": -27.5276,
+    "lng": -70.2494,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "04",
+    "tipo": "region",
+    "nombre": "Coquimbo",
+    "lat": -30.8301,
+    "lng": -70.9816,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "05",
+    "tipo": "region",
+    "nombre": "Valparaíso",
+    "lat": -32.9039,
+    "lng": -71.0262,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "13",
+    "tipo": "region",
+    "nombre": "Metropolitana de Santiago",
+    "lat": -33.4417,
+    "lng": -70.6541,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "09",
+    "tipo": "region",
+    "nombre": "De la Araucanía",
+    "lat": -38.5505,
+    "lng": -72.4382,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "14",
+    "tipo": "region",
+    "nombre": "De los Ríos",
+    "lat": -39.9086,
+    "lng": -72.7034,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "10",
+    "tipo": "region",
+    "nombre": "De los Lagos",
+    "lat": -42.1071,
+    "lng": -72.6425,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "11",
+    "tipo": "region",
+    "nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "lat": -46.2772,
+    "lng": -73.6628,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "12",
+    "tipo": "region",
+    "nombre": "Magallanes y de la Antártica Chilena",
+    "lat": -54.3551,
+    "lng": -70.5284,
+    "url": "",
+    "codigo_padre": "00"
+  },
+  {
+    "codigo": "16",
+    "tipo": "region",
+    "nombre": "Ñuble",
+    "lat": -36.7225743,
+    "lng": -71.76224809999999,
+    "url": "",
+    "codigo_padre": "00"
+  }
+]
